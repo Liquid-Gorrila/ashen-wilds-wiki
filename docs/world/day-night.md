@@ -20,7 +20,8 @@ You start on the morning of day 1, and day 1 has no daytime raiders.
 | 1 | Warrior, Archer, Tribe Hunter | 1–2 | 6 |
 | 2 | Spear Guard, Tribe Brute | 1–3 | 8 |
 | 3 | The [Dust Jumper](../combat/boss.md) may appear (35% chance, once a night) | 1–4 | 10 |
-| 4+ | Tamed Beast | 1–4 | 12, then +2 a day up to 16 |
+| 4 | Tamed Beast. About one wave in four is led by a [Dust Warrior](../combat/enemies.md#elites). | 1–4 | 12 |
+| 5+ | [Electrocutioners](../combat/enemies.md#elites) can lead waves too | 1–4 | 14, then +2 a day up to 16 |
 
 Groups spawn just off screen every few seconds, and the gap shrinks each day. Raiders who fall far behind you give up and vanish.
 

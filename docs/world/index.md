@@ -15,9 +15,17 @@ Every run generates a new world from a random seed. It has no edge, and it loads
 | :material-leaf-maple: Autumn Oasis | Autumn trees, berry bushes | Boar, chicken | Copper, gold |
 | :material-flower: Crimson Oasis | Crimson trees, berry bushes | Boar | Gold, amethyst |
 | :material-diamond-stone: Violet Oasis | Violet trees, berry bushes | Rabbit | Amethyst, cobalt |
-| :material-snowflake: Frost Oasis | Teal trees, berry bushes | Rabbit, sheep | Cobalt, stone |
+| :material-snowflake: Frost Oasis | Teal trees, berry bushes, snow drifts | Rabbit, sheep | Cobalt, stone |
+| :material-water: Mire Oasis | Swamp trees, skull trees, giant tusks and skulls, mushrooms | Boar | Coal, copper |
+| :material-sword-cross: Bloodfields | Blood trees, swords in the ground, stone hands, statues, giant skulls | None | Stone, gold |
 
-The Desert and the Badlands are hot by day, which makes you hungry faster (see [Survival](../survival/index.md#desert-heat)). Each oasis is ringed by a fringe of scrubby sand.
+The Mire is the wettest kind of oasis. The Bloodfields are old battlefields that lie out in the cooler, damper stretches of desert.
+
+Most Mire and Bloodfields props can be broken for materials: swamp and blood trees give wood (blood trees sometimes berries), tusks and skulls give bone, rocks give stone (and sometimes coal), and old swords give copper ore and the odd piece of gold. Each biome also has a rare landmark you can't break: the Great Tree in the Mire and the Gigantic Sword in the Bloodfields.
+
+Oases and open sand are home to [hostile wildlife](../combat/enemies.md#hostile-wildlife) as well as animals.
+
+The Desert, the Badlands and the Bloodfields are hot by day, which makes you hungry faster (see [Survival](../survival/index.md#desert-heat)). Each oasis is ringed by a fringe of scrubby sand.
 
 ## Terrain
 
@@ -33,9 +41,10 @@ The world is divided into regions of 40 by 40 cells, and about two thirds of reg
 
 | Landmark | What you'll find |
 | --- | --- |
-| Camp | Tents, a lit firepit, a loot chest and baskets |
-| Ruin | A sci-fi building, a loot chest, a lamp, and sometimes a Speed Racer |
-| Merchant camp | A [trader](merchants.md), a tent, a lamp, and sometimes a Speed Racer |
+| Camp | Tents, a lit firepit, a bronze chest and baskets |
+| Ruin | A sci-fi building, a silver chest, a lamp, and sometimes a Speed Racer |
+| Merchant camp | A [trader](merchants.md) in a little market of lamp posts, crates and machinery, a tent, and sometimes a Speed Racer. The crates break for wood and copper. |
+| Relic site | Overgrown temple ruins around an [ancient relic](relics.md) and its guardian, with a silver chest. Rare, and never next to your start. |
 | Tribe camp | A large tribal tent, bone totems and a rich chest |
 | Bone field | Giant bones, bone totems and a chest |
 | Cave | A rock mound ringed by rich ore. It leads underground: see [Caves](caves.md). |
@@ -66,5 +75,9 @@ The world is divided into regions of 40 by 40 cells, and about two thirds of reg
 -   :material-store:{ .lg .middle } **[Merchants and loot](merchants.md)**
 
     Trades, and what's inside each kind of chest.
+
+-   :material-pillar:{ .lg .middle } **[Relics and guardians](relics.md)**
+
+    Ancient machines, the bosses that guard them, and their rewards.
 
 </div>

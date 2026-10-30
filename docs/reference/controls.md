@@ -10,6 +10,9 @@ Attacks aim at the mouse cursor when you use the mouse, otherwise in the directi
 | Roll (dodge, costs stamina) | ++space++ or ++shift++ | |
 | Use / interact | ++e++ | |
 | Eat best food | ++f++ | |
+| Throw a Flame Bottle | ++q++ | Aims at the cursor |
+| Throw a Poison Bottle | ++g++ | Aims at the cursor |
+| Next recipe at a station that crafts more than one thing | ++r++ | |
 | Build menu | ++c++ or ++tab++ | |
 | Dismantle | ++x++ | |
 | Pause | ++esc++ or ++p++ | |

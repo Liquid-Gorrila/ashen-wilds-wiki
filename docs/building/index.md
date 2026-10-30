@@ -20,7 +20,7 @@ Build each station near the one before it. The **Component Table** opens power, 
 | --- | --- | --- |
 | *(none needed)* | Campfire, Planter, Storage, Workbench | |
 | Workbench | Trap Table, Alchemy Table, Component Table, Forge, Kiln, Quarry, Generator, Conveyor | |
-| Trap Table | Spike Trap | |
+| Trap Table | Spike Trap | Flame Bottle, Poison Bottle (++r++ to switch) |
 | Alchemy Table | | Elixir |
 | Component Table | Gun Table, Automation Table, Fuel Refinery, Greenhouse, Solar Panel, Battery Bank, Coil, Transporter, Crosser, Filter Belt, Splitter | Gear |
 | Gun Table | Gun Turret | |

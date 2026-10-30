@@ -1,6 +1,6 @@
 # Credits
 
-**Art:** Penusbmic, from the *Stranded* asset packs: hero, enemies, tribe, animals, trees, crops, factory, merchants, sci-fi buildings, Speed Racer, Dust Jumper and UI. Used under the creator's license.
+**Art:** Penusbmic, from the *Stranded* asset packs: hero, enemies, tribe, animals, trees, crops, factory, merchants, sci-fi buildings, sci-fi chests, insect enemies, Speed Racer, Dust Jumper, Dust Burrow, Dust Warrior, Electrocutioner, Relic Guardians 1–3, Ancient Relics, Roguelike Powerups, Overgrown Temple, Swamps, Blood Forest/Desert, Town Builder and UI. Used under the creator's license.
 
 **Music and sound effects:** generated for Ashen Wilds.
 

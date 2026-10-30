@@ -82,6 +82,7 @@ nav:
       - Caves: world/caves.md
       - Speed Racer: world/speed-racer.md
       - Merchants and loot: world/merchants.md
+      - Relics and guardians: world/relics.md
   - Survival:
       - survival/index.md
       - Food: survival/food.md
@@ -92,6 +93,7 @@ nav:
       - Base raids: combat/base-raids.md
       - The Dust Jumper: combat/boss.md
       - Companion drone: combat/companion.md
+      - Relic boons: combat/boons.md
   - Building:
       - building/index.md
       - Build costs: building/costs.md

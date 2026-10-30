@@ -8,14 +8,14 @@ Strike trees, deposits and rocks with your sword; a chop deals more damage than 
 
 | Item | Wild sources (finite) | Renewable sources |
 | --- | --- | --- |
-| Wood | Trees (1–3, big trees 3–5), dead trees (1–2), chests | Greenhouse (2 per harvest) |
-| Stone | Rock blocks (1–3), stone deposits (2–3), other deposits (0–1) | Quarry, Advanced Quarry |
-| Coal | Coal deposits (1–2), cave seams | Quarry in Desert or Badlands, Advanced Quarry, merchant |
-| Copper Ore | Copper deposits (1–2), cave seams, Spear Guards | Quarry where copper occurs |
-| Gold Ore | Gold deposits, cave seams, Tribe Brutes, rich chests, Dust Jumper | Quarry deep seams, merchant |
-| Cobalt Ore | Cobalt deposits, cave seams, Dust Jumper | Quarry deep seams |
-| Amethyst | Amethyst deposits, cave seams, Tamed Beasts, Dust Jumper | Quarry deep seams, merchant |
-| Bone | Bone stalks and totems, animals, most raiders | Hunting and raids |
+| Wood | Trees (1–3, big trees 3–5), dead trees (1–2), swamp and blood trees, merchant-camp crates, chests | Greenhouse (2 per harvest) |
+| Stone | Rock blocks (1–3), stone deposits (2–3), other deposits (0–1), Mire and Bloodfields rocks | Quarry, Advanced Quarry |
+| Coal | Coal deposits (1–2), cave seams, Mire rocks | Quarry in Desert or Badlands, Advanced Quarry, merchant |
+| Copper Ore | Copper deposits (1–2), cave seams, Spear Guards, Bloodfields swords, merchant-camp crates | Quarry where copper occurs |
+| Gold Ore | Gold deposits, cave seams, Tribe Brutes, gold chests, Dust Jumper, Relic Guardians | Quarry deep seams, merchant |
+| Cobalt Ore | Cobalt deposits, cave seams, Dust Jumper, Electrocutioners, Relic Guardians | Quarry deep seams |
+| Amethyst | Amethyst deposits, cave seams, Tamed Beasts, Broodmothers, Dust Jumper, Relic Guardians | Quarry deep seams, merchant |
+| Bone | Bone stalks and totems, Mire tusks and skulls, giant skulls, animals, insects, Dust Burrows, most raiders | Hunting and raids |
 
 A Quarry has a 4% chance each cycle to strike a deep seam of gold, cobalt or amethyst anywhere; the Advanced Quarry has 10%.
 
@@ -30,7 +30,16 @@ A Quarry has a 4% chance each cycle to strike a deep seam of gold, cobalt or ame
 | Gear | Component Table | 1 Copper Bar |
 | Circuit | Automation Table | 1 Gold Bar + 1 Gear |
 
-Gears and circuits are crafted by using the station while carrying the inputs.
+Gears and circuits are crafted by using the station while carrying the inputs. Dust Warriors sometimes drop a Copper Bar, and Electrocutioners a Circuit.
+
+## Throwables
+
+| Item | Made at | Input (makes 2) |
+| --- | --- | --- |
+| Flame Bottle | Trap Table | 2 Coal + 1 Bone |
+| Poison Bottle | Trap Table | 2 Berries + 1 Bone + 1 Amethyst |
+
+The Trap Table makes either one: press ++r++ beside it to switch recipes. What each bottle does is on the [Combat](../combat/index.md#throwables) page.
 
 ## Food
 

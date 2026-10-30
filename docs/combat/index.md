@@ -13,6 +13,15 @@ Attacks aim at the mouse cursor when you use the mouse, otherwise in the directi
 
 A roll costs 3 stamina and makes you invulnerable for 0.35 s: enough to pass through most swings, arrows and the Dust Jumper's slam. With 11 stamina you get three rolls back to back, so don't spend them all on chops.
 
+## Throwables
+
+Bottles are crafted at the [Trap Table](../building/index.md) and thrown toward the mouse cursor (up to about 8 m), or a few metres ahead of you if you're not using the mouse. They shatter where they land and only hurt enemies.
+
+| Bottle | Throw | Crafting (makes 2) | Effect |
+| --- | --- | --- | --- |
+| Flame Bottle | ++q++ | 2 Coal, 1 Bone | Bursts for 2 damage and sets everything caught on fire (1 damage a second for 3 seconds). |
+| Poison Bottle | ++g++ | 2 Berries, 1 Bone, 1 Amethyst | Bursts for 1 damage in a wider cloud and poisons everything caught (1 damage a second for 5 seconds). |
+
 ## In this section
 
 <div class="grid cards" markdown>
@@ -32,5 +41,13 @@ A roll costs 3 stamina and makes you invulnerable for 0.35 s: enough to pass thr
 -   :material-quadcopter:{ .lg .middle } **[Companion drone](companion.md)**
 
     Your little helper: zaps raiders and mends buildings.
+
+-   :material-pillar:{ .lg .middle } **[Relic Guardians](../world/relics.md)**
+
+    Three bosses that guard the ancient relics.
+
+-   :material-star-four-points:{ .lg .middle } **[Relic boons](boons.md)**
+
+    Permanent powers won from the relics, and how they rank up.
 
 </div>

@@ -16,6 +16,18 @@ Raiders come at night, and in pairs during the day from day 2. Tougher ones join
 !!! tip "Dealing with heavies"
     Slashes still hurt Brutes and Tamed Beasts but won't stagger them. Roll through their swing, then answer with a chop.
 
+## Elites
+
+From day 4, about one night wave in four is led by an elite, with never more than one elite at a time. A message announces it as it arrives.
+
+| Elite | From | Health | Behaviour | Drops |
+| --- | --- | --- | --- | --- |
+| Dust Warrior | Day 4 | 14 | Slashes up close for 2. Every third attack becomes a whirling spin that chases you (1 damage every 0.3 s while you're caught) and ends in a burst for 2. | 1–2 Bone, 0–1 Copper Bar |
+| Electrocutioner | Day 5 | 16 | Keeps its distance and calls lightning onto the spot you stand: a marker shows it 0.75 s before it strikes for 2. If you get close it shocks the ground for 2, and every few seconds it teleports away. | 1–2 Cobalt Ore, 0–1 Circuit |
+
+!!! tip "Elites"
+    Roll away when the Dust Warrior starts spinning, then punish it as the spin ends. Against the Electrocutioner, never stand still: keep moving and the lightning lands behind you.
+
 ## Wildlife
 
 Animals live in oases and wander near where they spawned. Sheep and chickens travel in pairs.
@@ -26,4 +38,23 @@ Animals live in oases and wander near where they spawned. Sheep and chickens tra
 | Chicken | 1 | Flees | 1 Raw Meat, 0–1 Bone |
 | Sheep | 3 | Flees when hit | 2 Raw Meat, 0–1 Bone |
 | Boar | 5 | Turns and charges when hit, for 1 damage | 2–3 Raw Meat, 1–2 Bone |
+
+## Hostile wildlife
+
+Some creatures attack anything that wanders near. As chunks of the world load, about one in three gets a nest, but never within 28 cells of your starting camp. They aren't raiders, so they don't use up the night's raider limit, and killing them doesn't count as hunting.
+
+Insects stay near their nest: lead them far enough away and they give up and drift home.
+
+| Creature | Lives in | Health | Behaviour | Drops |
+| --- | --- | --- | --- | --- |
+| Gnat swarm | Greenwood, Birch and Frost oases | 1 each | Swarms of 3–4. Fast, nips for 1. | Nothing |
+| Stinger | Most oases | 3 | Alone or in pairs. Slashes for 1. | 0–1 Bone |
+| Spitter | Autumn, Crimson, Violet and Mire oases | 4 | Lines up level with you and spits acid sideways for 1, from up to about 4 m. | 1 Bone |
+| Broodmother | Crimson, Violet and Mire oases | 12 | Slow and heavy. Spits for 2. Releases a swarm of 3 gnats when it dies. | 1–2 Bone, 0–1 Amethyst |
+| Dust Burrow | Desert, Scorched Badlands, Bloodfields | 7 | Shuffles about the open sand. When you come close it dives and tunnels after you (a trail of spikes gives it away), stops for half a second, then erupts under you for 2. | 1–2 Bone, 50% chance of 1 Raw Meat |
+
+!!! tip "Beating a Dust Burrow"
+    It can't be hurt underground or while bursting out. Roll away when its spike trail stops moving, then hit it while it stays puffed up and dazed for a few seconds. It ignores you while you're on the Speed Racer.
+
+Spitters only hit along a horizontal line, so stepping up or down out of line dodges them.
 

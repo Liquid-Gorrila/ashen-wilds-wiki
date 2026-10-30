@@ -1,6 +1,6 @@
 # Objectives
 
-A tutorial series guides your first days. It has 30 goals in six parts and shows one goal at a time on the left of the screen. Each goal tells you what to do, not which key to press, and completes with a chime the moment you do it.
+A tutorial series guides your first days. It has 34 goals in seven parts and shows one goal at a time on the left of the screen. Each goal tells you what to do, not which key to press, and completes with a chime the moment you do it.
 
 Progress is saved with your game. You can hide the panel in [Settings](../reference/interface.md#settings).
 
@@ -78,6 +78,17 @@ Progress is saved with your game. You can hide the panel in [Settings](../refere
 3. Weather a [sandstorm](../world/sandstorms.md)
 4. Defeat the [Dust Jumper](../combat/boss.md)
 5. Survive until day 10
+
+</div>
+
+<div class="card" markdown>
+
+### 7 · The Relics
+
+1. Wake an [ancient relic](../world/relics.md)
+2. Defeat a Relic Guardian
+3. Claim a relic [boon](../combat/boons.md)
+4. Defeat all three kinds of guardian
 
 </div>
 
