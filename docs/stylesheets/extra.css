@@ -1,0 +1,209 @@
+/* Ashen Wilds wiki theme: "sand" by day, "dusk" by night. */
+@import url("https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@500;700&display=swap");
+
+:root {
+  --aw-rust: #c2541c;
+  --aw-ember: #e8743a;
+  --aw-gold: #e8a33d;
+  --aw-oasis: #4f9a6a;
+  --aw-dusk: #2a1f33;
+  --aw-heading: "Pixelify Sans", "Inter", sans-serif;
+}
+
+[data-md-color-scheme="sand"] {
+  --md-primary-fg-color: #b4501f;
+  --md-primary-fg-color--light: #d4703a;
+  --md-primary-fg-color--dark: #8a3a14;
+  --md-primary-bg-color: #fff8ec;
+  --md-accent-fg-color: #c77d12;
+  --md-default-bg-color: #faf4e8;
+  --md-default-fg-color: rgba(48, 30, 18, 0.9);
+  --md-default-fg-color--light: rgba(48, 30, 18, 0.62);
+  --md-default-fg-color--lighter: rgba(48, 30, 18, 0.3);
+  --md-default-fg-color--lightest: rgba(48, 30, 18, 0.1);
+  --md-typeset-a-color: #a5461a;
+  --md-code-bg-color: #f1e6d2;
+  --md-footer-bg-color: #3a2618;
+  --md-footer-bg-color--dark: #2b1c11;
+  --aw-card: #fffaf1;
+  --aw-card-border: #ead9bd;
+  --aw-table-head: #f0e2c8;
+}
+
+[data-md-color-scheme="dusk"] {
+  color-scheme: dark;
+  --md-hue: 280;
+  --md-primary-fg-color: #e8743a;
+  --md-primary-fg-color--light: #f39a63;
+  --md-primary-fg-color--dark: #b4501f;
+  --md-primary-bg-color: #1d1524;
+  --md-accent-fg-color: #f3b85a;
+  --md-default-bg-color: #18121e;
+  --md-default-fg-color: rgba(240, 228, 214, 0.9);
+  --md-default-fg-color--light: rgba(240, 228, 214, 0.62);
+  --md-default-fg-color--lighter: rgba(240, 228, 214, 0.3);
+  --md-default-fg-color--lightest: rgba(240, 228, 214, 0.08);
+  --md-typeset-color: rgba(240, 228, 214, 0.88);
+  --md-typeset-a-color: #f39a63;
+  --md-code-bg-color: #241b2c;
+  --md-code-fg-color: #f0e4d6;
+  --md-footer-bg-color: #120d17;
+  --md-footer-bg-color--dark: #0c0910;
+  --aw-card: #211929;
+  --aw-card-border: #352840;
+  --aw-table-head: #2a1f33;
+}
+
+/* Header and tabs: a desert-sunset gradient in both schemes. */
+.md-header,
+.md-tabs {
+  background: linear-gradient(90deg, #8a3a14 0%, #c2541c 45%, #e08a3a 100%);
+  color: #fff8ec;
+}
+[data-md-color-scheme="dusk"] .md-header,
+[data-md-color-scheme="dusk"] .md-tabs {
+  background: linear-gradient(90deg, #1d1524 0%, #3a2346 50%, #7a3a2a 100%);
+}
+.md-header__title,
+.md-tabs__link {
+  font-family: var(--aw-heading);
+  letter-spacing: 0.02em;
+}
+.md-tabs__link { font-size: 0.78rem; }
+.md-header__button.md-logo img { height: 1.8rem; image-rendering: pixelated; }
+
+/* Headings */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: var(--aw-heading);
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+.md-typeset h1 { color: var(--md-primary-fg-color); }
+.md-typeset h2 {
+  padding-bottom: 0.25em;
+  border-bottom: 2px dashed var(--md-default-fg-color--lightest);
+}
+
+/* Pixel art stays crisp. */
+.md-typeset img { image-rendering: pixelated; }
+.md-typeset figure img,
+.md-typeset p > img {
+  border-radius: 6px;
+  box-shadow: 0 6px 22px rgba(30, 14, 4, 0.28);
+}
+.md-typeset figcaption {
+  max-width: none;
+  font-size: 0.72rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Tables */
+.md-typeset table:not([class]) {
+  border: 1px solid var(--aw-card-border);
+  border-radius: 6px;
+  font-size: 0.72rem;
+}
+.md-typeset table:not([class]) th {
+  background: var(--aw-table-head);
+  font-family: var(--aw-heading);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* Keys */
+.md-typeset kbd {
+  font-family: var(--aw-heading);
+  border-radius: 4px;
+}
+
+/* Cards */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid > .card {
+  background: var(--aw-card);
+  border: 1px solid var(--aw-card-border);
+  border-radius: 8px;
+  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+.md-typeset .grid.cards > ul > li:hover {
+  transform: translateY(-2px);
+  border-color: var(--md-primary-fg-color);
+  box-shadow: 0 6px 18px rgba(30, 14, 4, 0.18);
+}
+.md-typeset .grid.cards .lg { color: var(--md-primary-fg-color); }
+
+/* Home page hero */
+.aw-hero {
+  position: relative;
+  margin: -0.4rem 0 2rem;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #1d1524;
+  box-shadow: 0 10px 34px rgba(30, 14, 4, 0.35);
+}
+.aw-hero img {
+  display: block;
+  width: 100%;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  opacity: 0.92;
+}
+.aw-hero__text {
+  position: absolute;
+  inset: auto 0 0 0;
+  padding: 3rem 1.6rem 1.4rem;
+  background: linear-gradient(180deg, transparent 0%, rgba(18, 10, 20, 0.88) 60%);
+  color: #fff3e2;
+}
+.md-typeset .aw-hero__text h1 {
+  margin: 0 0 0.2rem;
+  color: #ffd9a8;
+  font-size: 2.4rem;
+  text-shadow: 0 3px 0 #5a2410;
+}
+.md-typeset .aw-hero__text p { margin: 0 0 0.9rem; max-width: 34rem; }
+.md-typeset .aw-hero .md-button {
+  margin: 0.2rem 0.4rem 0 0;
+  border-color: #ffd9a8;
+  color: #ffd9a8;
+}
+.md-typeset .aw-hero .md-button--primary {
+  background: var(--aw-ember);
+  border-color: var(--aw-ember);
+  color: #1d1524;
+}
+@media screen and (max-width: 44.9375em) {
+  .aw-hero__text { position: static; padding: 1rem; background: #1d1524; }
+  .md-typeset .aw-hero__text h1 { font-size: 1.7rem; }
+}
+
+/* Stat strip */
+.aw-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(7.5rem, 1fr));
+  gap: 0.6rem;
+  margin: 1rem 0 1.6rem;
+}
+.aw-stats > div {
+  padding: 0.7rem 0.8rem;
+  text-align: center;
+  background: var(--aw-card);
+  border: 1px solid var(--aw-card-border);
+  border-radius: 8px;
+}
+.aw-stats strong {
+  display: block;
+  font-family: var(--aw-heading);
+  font-size: 1.35rem;
+  color: var(--md-primary-fg-color);
+}
+.aw-stats span { font-size: 0.68rem; color: var(--md-default-fg-color--light); }
+
+/* Admonitions pick up the palette. */
+.md-typeset .admonition,
+.md-typeset details { border-radius: 6px; font-size: 0.74rem; }
+
+/* Small, out-of-the-way credits line in the footer. */
+.md-copyright { font-size: 0.6rem; opacity: 0.8; }
+.md-copyright a { color: inherit; text-decoration: underline dotted; }

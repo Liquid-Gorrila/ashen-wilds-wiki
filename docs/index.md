@@ -1,34 +1,94 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
+<div class="aw-hero" markdown>
+![The starting camp in a birch oasis](assets/images/start.png)
+<div class="aw-hero__text" markdown>
 # Ashen Wilds
 
-Ashen Wilds is an isometric pixel-art survival and automation game. You are a lone swordsman stranded in an endless desert, and the goal is to survive as many days as you can.
+Stranded in an endless desert with nothing but a sword. Scavenge the oases, build machines that keep you alive, and hold the line when the raiders come at night.
 
-![Your starting camp in a small oasis](assets/images/start-oasis.png)
+[Start playing :material-arrow-right:](start/index.md){ .md-button .md-button--primary }
+[Browse items](reference/items.md){ .md-button }
+</div>
+</div>
 
-The world is procedurally generated from a random seed and has no edge. Most of it is barren sand; life clings to small, scattered oases. Wild resources are thin and never grow back, so long-term survival depends on building machines that mine, smelt, grow and defend for you.
+<div class="aw-stats" markdown>
+<div><strong>∞</strong><span>procedural desert</span></div>
+<div><strong>7</strong><span>oasis biomes</span></div>
+<div><strong>32</strong><span>buildable structures</span></div>
+<div><strong>30</strong><span>tutorial objectives</span></div>
+<div><strong>1</strong><span>save. Death is final.</span></div>
+</div>
+
+## Find your way
+
+<div class="grid cards" markdown>
+
+-   :material-flag-checkered:{ .lg .middle } **Start here**
+
+    ---
+
+    What the game is, how a run works, and a day-by-day plan for your first week.
+
+    [:octicons-arrow-right-24: First days](start/first-days.md)
+
+-   :material-earth:{ .lg .middle } **The world**
+
+    ---
+
+    Biomes, landmarks, the day cycle, sandstorms and the caves beneath the sand.
+
+    [:octicons-arrow-right-24: Explore](world/index.md)
+
+-   :material-food-drumstick:{ .lg .middle } **Survival**
+
+    ---
+
+    Health, stamina and hunger, every food in the game, and the three buffs.
+
+    [:octicons-arrow-right-24: Stay alive](survival/index.md)
+
+-   :material-sword-cross:{ .lg .middle } **Combat**
+
+    ---
+
+    Your sword, every raider and animal, base raids, the Dust Jumper, and your drone.
+
+    [:octicons-arrow-right-24: Fight](combat/index.md)
+
+-   :material-factory:{ .lg .middle } **Building**
+
+    ---
+
+    The tech tree, quarries and kilns, power grids, belts with filters and splitters, and turrets.
+
+    [:octicons-arrow-right-24: Automate](building/index.md)
+
+-   :material-book-open-variant:{ .lg .middle } **Reference**
+
+    ---
+
+    Controls, menus and settings, an index of every item, saving, and common questions.
+
+    [:octicons-arrow-right-24: Look it up](reference/index.md)
+
+</div>
 
 ## The core loop
 
-1. Scavenge the starting camp, then gather wood, stone and ore and hunt or forage for food.
-2. Build stations to climb the [tech tree](building.md).
-3. Automate: [quarries, kilns, greenhouses](production.md), [power](power.md) and [conveyor belts](logistics.md).
-4. Defend your base each night against [escalating raids](day-night.md), including the [Dust Jumper boss](combat.md#the-dust-jumper-boss).
+1. **Scavenge.** Loot the starting camp, chop trees, mine rocks, hunt and forage in your oasis.
+2. **Climb the tech tree.** Each crafting station unlocks the next set of buildings.
+3. **Automate.** Wild resources never grow back. Quarries, kilns, greenhouses, power and conveyor belts make them for you.
+4. **Defend.** Every night the raids grow. Turrets, traps and your companion drone guard the base, and from day 3 the Dust Jumper may come hunting.
 
-A run ends when your health reaches zero, and death deletes your save. The game [saves](saving.md) every dawn and from the pause menu.
+<figure markdown>
+![A powered base at work: quarries, a kiln, storage and power cables](assets/images/factory.png)
+<figcaption>A small base on day 3: generator, quarries, kiln, belts and storage, linked by power cables.</figcaption>
+</figure>
 
-## Features
-
-- An endless procedurally generated desert with small oasis biomes
-- Survival: hunger, desert heat, day and night raids, [buffs](buffs.md) and [sandstorms](sandstorms.md)
-- A crafting tech tree of eight stations and over 30 buildable structures
-- Factory automation: quarries, kilns, power grids, conveyor belts, [filters and splitters](logistics.md)
-- Automated defenses against [base raids](combat.md#base-raids), a boss, a helpful [companion drone](companion.md) and a rideable [Speed Racer](speed-racer.md)
-- Explorable [caves](caves.md) full of rich ore and dormant warriors
-- A tutorial series of [objectives](objectives.md), a compass, and original generated music and sound
-
-## Where to start
-
-- New players: read [Getting started](getting-started.md), then [Controls](controls.md), or just follow the in-game [objectives](objectives.md).
-- Looking for a specific item? See [Items and how to get them](items.md).
-- Planning a factory? See [Production](production.md), [Power](power.md) and [Logistics](logistics.md).
-
-![The open desert, with small oases, camps and a cave](assets/images/desert-wide.png)
+!!! tip "New here?"
+    You don't need to read anything before playing. The in-game [objectives](start/objectives.md) teach every system one step at a time. Come back to this wiki when you want the numbers.
