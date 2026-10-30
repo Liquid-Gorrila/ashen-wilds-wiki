@@ -2,7 +2,7 @@
 
 Open the build menu to place structures. Each one goes on the cell in front of you, shown by a ghost that turns green when the spot is free and red when it's blocked.
 
-![The build menu on the Logistics tab, with the Filter Belt selected](../assets/images/build-menu.png)
+![The build menu on the Production tab, with the Quarry selected and ready to build](../assets/images/build-menu.png)
 
 - **Give machines room.** Machines, stations and towers are taller than the cell they stand on, so one can't go right beside another, or where it would cover one standing just behind or in front of it. If the ghost is red on open ground, step a cell or two sideways. Belts, spikes and storage can go anywhere.
 - **Stations gate recipes.** Most structures can only be built while you stand near a particular crafting station. Locked entries show that station's name in brackets.

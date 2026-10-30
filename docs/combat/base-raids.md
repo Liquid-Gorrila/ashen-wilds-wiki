@@ -2,7 +2,7 @@
 
 Raiders don't just come for you. Melee raiders attack any of your buildings that is closer to them than you are. Archers and Tribe Hunters only shoot at you.
 
-![Tribe raiders attacking a base; a damaged turret shows its health bar](../assets/images/raid.png)
+![A night raid led by a Dust Warrior closing on a lit base](../assets/images/raid.png)
 
 ## Sieges
 

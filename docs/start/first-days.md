@@ -28,7 +28,7 @@ The [objectives](objectives.md) on the left of the screen walk you through the s
     4. Add **Solar Panels** and a **Battery Bank** so the base runs through the night without burning coal.
     5. Explore a [cave](../world/caves.md) for gold, cobalt and amethyst, and work toward the Automation, Advanced and Defense tables.
 
-![Raiders attacking a base at night while a turret fires back](../assets/images/raid.png)
+![Raiders closing on a base at night](../assets/images/raid.png)
 
 !!! warning "Don't wander too far at night"
     From day 1, raiders spawn around you after dark, and about a third of raid groups head for your base instead. Be home before dusk until your defenses can hold on their own. See [Base raids](../combat/base-raids.md).

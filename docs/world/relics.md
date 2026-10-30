@@ -2,6 +2,8 @@
 
 Ancient relics are machines left behind by whoever lived here before the sand. Each one sleeps at the heart of overgrown temple ruins, guarded by a **Relic Guardian**. Beat the guardian and the relic grants you a permanent [boon](../combat/boons.md).
 
+![The Pyre awake before its fire relic, ringed by temple ruins, with its health bar under the compass](../assets/images/relic.png)
+
 ## Finding a relic
 
 Relic sites are a rare [landmark](index.md#landmarks), never in the regions right next to your starting camp. You'll know one by its ring of temple ruins: mossy statues, stone urns, broken pillars and rubble, with a silver loot chest at the back.

@@ -2,7 +2,7 @@
 
 Every run generates a new world from a random seed. It has no edge, and it loads in chunks around you as you travel. Most of it is desert; living biomes exist only as small oases, usually 10 to 20 cells across.
 
-![The world zoomed out: open desert with a small oasis and a camp](../assets/images/world.png)
+![The world zoomed out: open desert with small oases, a camp, a tribe tent and a ruin](../assets/images/world.png)
 
 ## Biomes
 

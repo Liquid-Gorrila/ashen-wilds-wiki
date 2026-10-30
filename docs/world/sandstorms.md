@@ -2,7 +2,7 @@
 
 Sandstorms are daytime weather events. They can start from day 2, and at most one blows each day.
 
-![A sandstorm sweeping over a base](../assets/images/storm.png)
+![A sandstorm sweeping over the desert near an oasis](../assets/images/storm.png)
 
 ## How a storm plays out
 
