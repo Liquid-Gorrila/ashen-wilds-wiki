@@ -34,10 +34,10 @@ When the guardian falls, the relic pours out its power and depletes for good. Yo
 
 ## The Warden
 
-**60 health.** A heavy stone sentinel that comes crashing out of the sky when its relic wakes. Stay out from under it as it lands.
+**120 health.** A heavy stone sentinel that comes crashing out of the sky when its relic wakes. Stay out from under it as it lands.
 
 Ground slam
-:   Up close, it charges an orb and slams the ground for 2 damage around it.
+:   Up close, it charges an orb, then slams the ground for 2 damage. Anywhere inside the cracks it draws is in range.
 
 Beam
 :   It fires a beam that sweeps diagonally downward and then straight down, for 2 damage per sweep. Move above it or to the side.
@@ -53,23 +53,26 @@ Mend
 
 ## The Pyre
 
-**70 health.** A slow, smouldering brute that controls space with fire.
+**140 health.** A slow, smouldering brute that controls space with fire.
 
 Fire rings
 :   It launches two rings of eight fire orbs, one after the other. Each orb deals 1 damage. Step into the gaps between them.
 
 Flamethrower
-:   It aims a jet of fire in one of eight directions and holds it for about 2 seconds. Standing in it deals 1 damage every 0.3 s and sets you on fire. Get out of the line, not just further away.
+:   It aims a jet of fire in one of eight directions and holds it for about 2 seconds. Standing on the ground beneath the jet deals 1 damage every 0.3 s and sets you on fire. Get out of the line, not just further away.
 
 Burning slam
-:   Up close, it slams the ground for 2 damage and sets you on fire.
+:   Up close, it slams the ground for 2 damage and sets you on fire. The whole cracked area is in range.
 
 ## The Hollow
 
-**55 health.** A hooded caster that floats out of reach and keeps you moving.
+**115 health.** A hooded caster that floats out of reach and keeps you moving.
 
 Falling swords
-:   It drops three spectral swords: one on where you're standing and two beside it. A ground marker shows each one before it lands for 2 damage.
+:   It drops three spectral swords where you're heading, not where you stand: one in your path and one on either side. A ground marker shows each one before it lands for 2 damage. Change direction or roll as the markers appear.
+
+Fade
+:   If you stay right next to it for about a second, it fades out, leaving a ring of three swords where it stood, and reappears on the far side of its relic. It can't be hurt while faded, and it can fade again after 6 seconds.
 
 Daggers
 :   It summons three daggers around you. Each one hovers, spins at you (1 damage) and slices (1 damage), twice before it vanishes. A dagger breaks after 2 hits, and the Hollow keeps at most three in the air.
@@ -78,4 +81,4 @@ Ward
 :   Below three-quarters health it wards itself for 6 seconds, halving the damage it takes. It can ward again every 18 seconds.
 
 !!! tip "Fighting the Hollow"
-    It backs away if you close in. A [Speed Racer](speed-racer.md) or the [Rune Circle](../combat/boons.md) boon helps pin it down, and the Ward is the moment to deal with the daggers instead.
+    It backs away if you close in and fades if you stay on it, so hit it and step out before it vanishes. A [Speed Racer](speed-racer.md) helps you chase it down, and the Ward is the moment to deal with the daggers instead.
