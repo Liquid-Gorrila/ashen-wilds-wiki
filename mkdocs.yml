@@ -1,0 +1,67 @@
+site_name: Ashen Wilds Wiki
+site_description: Player guide for Ashen Wilds, an isometric desert survival and automation game.
+site_url: https://liquid-gorrila.github.io/ashen-wilds-wiki/
+repo_url: https://github.com/Liquid-Gorrila/ashen-wilds-wiki
+repo_name: ashen-wilds-wiki
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+  - admonition
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Getting started: getting-started.md
+  - Basics:
+      - Controls: controls.md
+      - Survival: survival.md
+      - The world: world.md
+      - Day and night: day-night.md
+  - Items: items.md
+  - Combat and enemies: combat.md
+  - Building:
+      - Building and the tech tree: building.md
+      - Production machines: production.md
+      - Power: power.md
+      - Logistics: logistics.md
+      - Defense and weapons: defense.md
+  - Speed Racer: speed-racer.md
+  - Merchants and chests: merchants.md
