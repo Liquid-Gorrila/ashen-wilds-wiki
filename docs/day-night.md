@@ -4,10 +4,10 @@ A full day lasts 4 minutes. Night takes roughly the last quarter of it, and each
 
 | Phase | Length | What happens |
 | --- | --- | --- |
-| Dawn | about 25 s | Light returns. A new day begins and the day counter goes up. |
-| Morning and afternoon | about 2 min 15 s | Safe to explore. Desert heat is active. From day 2, a pair of raiders may wander in. |
+| Dawn | about 25 s | Light returns, a bell rings and the game [autosaves](saving.md). A new day begins and the day counter goes up. |
+| Morning and afternoon | about 2 min 15 s | Safe to explore. Desert heat is active. From day 2, a pair of raiders may wander in, and a [sandstorm](sandstorms.md) may blow. |
 | Dusk | about 25 s | The sky reddens. "Night falls" warns you raids are coming. |
-| Night | about 65 s | Dark. Lamps, fires and machine lights matter. Raiders spawn in waves near you. |
+| Night | about 65 s | A horn sounds and the music darkens. Lamps, fires and machine lights matter. Raiders spawn in waves near you. |
 
 You start on the morning of day 1, and day 1 has no daytime raiders.
 

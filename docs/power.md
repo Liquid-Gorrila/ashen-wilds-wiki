@@ -5,7 +5,7 @@ Most machines and all powered defenses need electricity. Power structures that s
 | Structure | Role | Details |
 | --- | --- | --- |
 | Generator | Produces 4 power | Burns fuel items you load (E) or deliver by belt. Each Fuel lasts 60 s, Coal 25 s, Wood 10 s. Only burns while power is needed or a battery has room. |
-| Solar Panel | Produces 2 power | Free, but only during the day. |
+| Solar Panel | Produces 2 power | Free, but only during the day, and only 30% during a [sandstorm](sandstorms.md). |
 | Battery Bank | Stores up to 300 | Charges from surplus, covers shortfalls at night. Its lights show the charge level. |
 | Coil | Relay | Links power across a long gap. |
 

@@ -18,7 +18,7 @@ Build each station next to the one above it. The Component Table opens power, be
 | Workbench | Trap Table, Alchemy Table, Component Table, Forge, Kiln, Quarry, Generator, Conveyor | |
 | Trap Table | Spike Trap | |
 | Alchemy Table | | Elixir |
-| Component Table | Gun Table, Automation Table, Fuel Refinery, Greenhouse, Solar Panel, Battery Bank, Coil, Transporter, Crosser | Gear |
+| Component Table | Gun Table, Automation Table, Fuel Refinery, Greenhouse, Solar Panel, Battery Bank, Coil, Transporter, Crosser, Filter Belt, Splitter | Gear |
 | Gun Table | Gun Turret | |
 | Automation Table | Advanced Table, Bio Lab | Circuit |
 | Advanced Table | Defense Table, Advanced Quarry, Advanced Forge | |
@@ -54,6 +54,8 @@ Build each station next to the one above it. The Component Table opens power, be
 | Conveyor | Logistics | 2 Stone | Workbench |
 | Transporter | Logistics | 1 Copper Bar, 1 Gear | Component Table |
 | Crosser | Logistics | 1 Copper Bar | Component Table |
+| Filter Belt | Logistics | 1 Copper Bar, 1 Gear | Component Table |
+| Splitter | Logistics | 1 Copper Bar, 1 Gear | Component Table |
 | Spike Trap | Defense | 4 Wood, 5 Stone | Trap Table |
 | Gun Turret | Defense | 4 Copper Bar, 2 Gear, 2 Coal | Gun Table |
 | Flamethrower | Defense | 2 Cobalt Bar, 2 Gear, 2 Fuel | Defense Table |

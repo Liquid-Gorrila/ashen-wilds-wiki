@@ -12,8 +12,7 @@ Attacks aim at the mouse cursor when you use the mouse, otherwise in the directi
 | Eat best food | F | |
 | Open build menu | C or Tab | |
 | Dismantle structure | X | |
-| Pause | Esc or P | |
-| Start / restart | Enter | Click |
+| Pause menu | Esc or P | |
 
 ## Build menu
 
@@ -22,11 +21,15 @@ Attacks aim at the mouse cursor when you use the mouse, otherwise in the directi
 | Switch category tab | A / D |
 | Choose a structure | W / S |
 | Build at the green ghost | E or Enter (or left click) |
-| Rotate belts, transporters, flamethrowers | R |
+| Rotate belts, transporters, filters, splitters, flamethrowers | R |
 | Close menu | C or Esc |
 
 ## Riding the Speed Racer
 
 While riding the [Speed Racer](speed-racer.md), W A S D steers, E gets off and F still eats.
+
+## Menus
+
+The title, pause and settings menus use W/S or the arrow keys to move, E or Enter to choose, and A/D to adjust volume sliders. The mouse works too. See [Interface and menus](interface.md).
 
 F3 toggles an FPS readout at any time.

@@ -50,11 +50,16 @@ plugins:
 nav:
   - Home: index.md
   - Getting started: getting-started.md
+  - Objectives: objectives.md
   - Basics:
       - Controls: controls.md
+      - Interface and menus: interface.md
+      - Saving: saving.md
       - Survival: survival.md
+      - Buffs: buffs.md
       - The world: world.md
       - Day and night: day-night.md
+      - Sandstorms: sandstorms.md
   - Items: items.md
   - Combat and enemies: combat.md
   - Building:

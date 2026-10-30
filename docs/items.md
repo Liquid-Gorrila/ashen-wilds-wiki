@@ -38,7 +38,7 @@ A Basic Quarry has a 4% chance per cycle to strike a deep seam of gold, cobalt o
 | Vegetables | Planter (2 per harvest), Greenhouse |
 | Raw Meat | Sheep, boars, rabbits, chickens, Tamed Beasts |
 | Cooked Meat | Campfire (cooks up to 5 raw meat per use), chests, merchants |
-| Serum | Bio Lab: 1 Vegetables + 1 Bone |
-| Elixir | Alchemy Table (press E): 3 Berries + 1 Amethyst |
+| Serum | Bio Lab: 1 Vegetables + 1 Bone. Eating it grants the Shielded [buff](buffs.md). |
+| Elixir | Alchemy Table (press E): 3 Berries + 1 Amethyst. Eating it grants the Blazing [buff](buffs.md). |
 
 How much each food restores is listed under [Survival](survival.md#food).

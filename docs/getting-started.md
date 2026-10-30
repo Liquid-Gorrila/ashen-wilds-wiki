@@ -2,6 +2,8 @@
 
 The first night arrives about 2.5 minutes in. Use day 1 to get a workbench and a fire up, then spend the next few days building toward a quarry, a kiln and a greenhouse.
 
+The [objectives](objectives.md) on the left of the screen walk you through the same path one goal at a time. Follow the compass's **Camp** and **Home** markers if you get lost.
+
 ## Day 1
 
 1. Open the starting chest (E) next to the tent.
@@ -27,3 +29,6 @@ The first night arrives about 2.5 minutes in. Use day 1 to get a workbench and a
 - **Bone:** bone from raids buys coal, gold, amethyst and cooked meat from [merchants](merchants.md).
 - **Defenses:** turrets and shockwave towers around your machines let you survive nights without standing guard.
 - **Mistakes:** misplaced something? Dismantle it with X for a full refund.
+- **Rest before nights:** a few seconds by your campfire grants Rested: faster movement and stamina for 2 minutes.
+- **Storms:** when the wind rises, head back to base. The wind barely moves you near your structures.
+- **Sorting:** use Filter Belts to pull one ore off a quarry line so it can feed a kiln directly.

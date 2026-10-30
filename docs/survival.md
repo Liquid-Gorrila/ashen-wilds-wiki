@@ -12,6 +12,7 @@ You have three meters, shown top-left: health, stamina and hunger. Keep hunger u
 - **Starvation:** at 0 hunger you lose 1 health every 5 seconds.
 - **Desert heat:** in open Desert or Scorched Badlands during the day, hunger drains 1.6× faster and the HUD reads "scorching". Standing near any of your structures counts as shade and removes the penalty.
 - **Rolling:** a roll makes you invulnerable for 0.35 s, enough to dodge most blows and the Dust Jumper's slam.
+- **Buffs:** resting by your campfire, Serum and Elixir grant timed [buffs](buffs.md).
 
 ## Food
 
@@ -19,8 +20,8 @@ Press F to eat. You always eat the best food you carry, in this order:
 
 | Food | Hunger restored | Health restored | How to get it |
 | --- | --- | --- | --- |
-| Elixir | 15 | 6 | Alchemy Table |
-| Serum | 25 | 3 | Bio Lab |
+| Elixir | 15 | 6 | Alchemy Table. Also grants Blazing. |
+| Serum | 25 | 3 | Bio Lab. Also grants Shielded. |
 | Cooked Meat | 35 | 2 | Campfire, chests, merchants |
 | Vegetables | 22 | 1 | Planter, Greenhouse |
 | Berries | 12 | 0 | Bushes, Greenhouse |
