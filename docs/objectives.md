@@ -44,8 +44,10 @@ A tutorial series guides your first days. It is split into six parts and shows o
 
 ## Part 6: The Long Haul
 
-1. Weather a [sandstorm](sandstorms.md)
-2. Defeat the [Dust Jumper](combat.md#the-dust-jumper-boss)
-3. Survive until day 10
+1. Explore a [cave](caves.md)
+2. Silence a cave (defeat every warrior inside)
+3. Weather a [sandstorm](sandstorms.md)
+4. Defeat the [Dust Jumper](combat.md#the-dust-jumper-boss)
+5. Survive until day 10
 
 Goals only count while they are the current goal, so doing something early does not tick it off later.

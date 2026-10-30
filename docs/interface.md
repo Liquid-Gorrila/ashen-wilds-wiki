@@ -24,6 +24,7 @@ The compass ribbon covers a full circle, with north (screen up) in the middle an
 | Camp (amber) | The starting camp. Hidden once Home is right next to it. |
 | Racer (red-orange) | The nearest Speed Racer nobody is riding |
 | Boss (red) | The Dust Jumper, while it is hunting you |
+| Exit (pale gold) | Inside a [cave](caves.md), the way back up. It is the only marker underground. |
 
 Markers you are standing on disappear. When two labels would overlap, one drops to a second line.
 
@@ -35,6 +36,7 @@ Markers you are standing on disappear. When two labels would overlap, one drops 
 | New game | Starts a fresh world and deletes any old save. |
 | Settings | Opens the settings screen. |
 | Quit | Closes the game. |
+| Credits | Who made the art, sound and engine. |
 
 ## Pause menu
 

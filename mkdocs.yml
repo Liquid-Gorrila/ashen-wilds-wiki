@@ -1,5 +1,6 @@
 site_name: Ashen Wilds Wiki
 site_description: Player guide for Ashen Wilds, an isometric desert survival and automation game.
+copyright: Art by Penusbmic (Stranded asset packs) · Built with Godot Engine (MIT)
 site_url: https://liquid-gorrila.github.io/ashen-wilds-wiki/
 repo_url: https://github.com/Liquid-Gorrila/ashen-wilds-wiki
 repo_name: ashen-wilds-wiki
@@ -60,6 +61,7 @@ nav:
       - The world: world.md
       - Day and night: day-night.md
       - Sandstorms: sandstorms.md
+      - Caves: caves.md
   - Items: items.md
   - Combat and enemies: combat.md
   - Building:
@@ -68,5 +70,6 @@ nav:
       - Power: power.md
       - Logistics: logistics.md
       - Defense and weapons: defense.md
+  - Companion drone: companion.md
   - Speed Racer: speed-racer.md
   - Merchants and chests: merchants.md

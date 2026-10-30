@@ -35,6 +35,6 @@ The world is divided into regions of 40 by 40 cells, and about two thirds of reg
 | Merchant camp | A trader, a tent, a lamp, sometimes a Speed Racer |
 | Tribe camp | A large tribal tent, bone totems, a rich chest |
 | Bone field | Giant bones, bone totems, a chest |
-| Cave | A rock cave mouth ringed by rich ore (gold, cobalt, amethyst, copper) |
+| Cave | A rock cave mouth ringed by rich ore (gold, cobalt, amethyst, copper). It leads underground: see [Caves](caves.md). |
 
 Anything you take from the world stays taken: felled trees, mined deposits, opened chests and found racers never come back.

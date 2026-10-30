@@ -21,7 +21,8 @@ A run ends when your health reaches zero, and death deletes your save. The game 
 - Survival: hunger, desert heat, day and night raids, [buffs](buffs.md) and [sandstorms](sandstorms.md)
 - A crafting tech tree of eight stations and over 30 buildable structures
 - Factory automation: quarries, kilns, power grids, conveyor belts, [filters and splitters](logistics.md)
-- Automated defenses, a boss, and a rideable [Speed Racer](speed-racer.md)
+- Automated defenses against [base raids](combat.md#base-raids), a boss, a helpful [companion drone](companion.md) and a rideable [Speed Racer](speed-racer.md)
+- Explorable [caves](caves.md) full of rich ore and dormant warriors
 - A tutorial series of [objectives](objectives.md), a compass, and original generated music and sound
 
 ## Where to start
