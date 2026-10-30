@@ -1,12 +1,12 @@
 # Building
 
-Open the build menu to place structures. Each one goes on the cell in front of you, shown by a ghost that turns green when the spot is free and red when it's blocked.
+Open the build menu to place structures. With a mouse, the structure goes on the cell under the cursor, up to about 7 m from you; point further and it stops at that limit. Without a mouse it goes on the cell in front of you. A ghost shows the spot, green when it's free and red when it's blocked. You can't build on the cell you're standing on.
 
 ![The build menu on the Production tab, with the Quarry selected and ready to build](../assets/images/build-menu.png)
 
-- **Give machines room.** Machines, stations and towers are taller than the cell they stand on, so one can't go right beside another, or where it would cover one standing just behind or in front of it. If the ghost is red on open ground, step a cell or two sideways. Belts, spikes and storage can go anywhere.
+- **Give machines room.** Machines, stations and towers are taller than the cell they stand on, so one can't go right beside another, or where it would cover one standing just behind or in front of it. If the ghost is red on open ground, try a cell or two to the side. Belts, spikes and storage can go anywhere.
 - **Stations gate recipes.** Most structures can only be built while you stand near a particular crafting station. Locked entries show that station's name in brackets.
-- **Dismantling** removes the structure in front of you (or the nearest one in reach) and refunds its full cost plus anything stored inside.
+- **Dismantling** removes the structure under the cursor (without a mouse: the one in front of you, or the nearest one in reach) and refunds its full cost plus anything stored inside.
 - **Your base keeps working.** Structures never despawn, and machines keep running while you're far away.
 - **Buildings can be damaged.** Raiders attack them at night. See [Base raids](../combat/base-raids.md#building-health) for health and repair.
 

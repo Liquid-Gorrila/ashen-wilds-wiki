@@ -1,7 +1,7 @@
 # FAQ
 
 ??? question "The build ghost is red on open sand."
-    Machines, stations and towers need room, so they can't go right beside another one or where one would cover another on screen. Move a cell or two sideways. See [Building](../building/index.md).
+    Machines, stations and towers need room, so they can't go right beside another one or where one would cover another on screen. Try a cell or two to the side. It's also red on the cell you're standing on. See [Building](../building/index.md).
 
 ??? question "I can't build anything. Why is it greyed out?"
     Most structures need you to stand near a particular crafting station. The locked entry shows the station's name in brackets. Check the [tech tree](../building/index.md#the-tech-tree).

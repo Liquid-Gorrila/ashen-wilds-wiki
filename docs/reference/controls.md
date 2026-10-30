@@ -14,7 +14,7 @@ Attacks aim at the mouse cursor when you use the mouse, otherwise in the directi
 | Throw a Poison Bottle | ++g++ | Aims at the cursor |
 | Next recipe at a station that crafts more than one thing | ++r++ | |
 | Build menu | ++c++ or ++tab++ | |
-| Dismantle | ++x++ | |
+| Dismantle | ++x++ | Takes down the structure under the cursor |
 | Pause | ++esc++ or ++p++ | |
 | FPS counter | ++f3++ | |
 
@@ -24,7 +24,8 @@ Attacks aim at the mouse cursor when you use the mouse, otherwise in the directi
 | --- | --- |
 | Switch category tab | ++a++ / ++d++ |
 | Choose a structure | ++w++ / ++s++ |
-| Build at the green ghost | ++e++, ++enter++ or left click |
+| Choose where to build | Point with the mouse (within about 7 m), or face the spot |
+| Build at the green ghost | Left click, ++e++ or ++enter++ |
 | Rotate belts, transporters, filters, splitters and flamethrowers | ++r++ |
 | Close | ++c++ or ++esc++ |
 
