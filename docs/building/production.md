@@ -2,7 +2,7 @@
 
 Powered machines work in cycles, holding up to 12 items in their input and output buffers. A full output buffer stops the machine until it's emptied.
 
-![A small factory: generator, quarries, kiln and storage linked by power cables](../assets/images/factory.png)
+![A small base: a quarry feeding a filter belt and kiln, a greenhouse, solar panels, a generator and battery, all linked by power cables](../assets/images/factory.png)
 
 Feeding
 :   Use a machine to load inputs from your inventory, or deliver them by [conveyor](logistics.md).

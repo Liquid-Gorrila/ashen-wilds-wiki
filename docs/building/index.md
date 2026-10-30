@@ -4,6 +4,7 @@ Open the build menu to place structures. Each one goes on the cell in front of y
 
 ![The build menu on the Logistics tab, with the Filter Belt selected](../assets/images/build-menu.png)
 
+- **Give machines room.** Machines, stations and towers are taller than the cell they stand on, so one can't go right beside another, or where it would cover one standing just behind or in front of it. If the ghost is red on open ground, step a cell or two sideways. Belts, spikes and storage can go anywhere.
 - **Stations gate recipes.** Most structures can only be built while you stand near a particular crafting station. Locked entries show that station's name in brackets.
 - **Dismantling** removes the structure in front of you (or the nearest one in reach) and refunds its full cost plus anything stored inside.
 - **Your base keeps working.** Structures never despawn, and machines keep running while you're far away.

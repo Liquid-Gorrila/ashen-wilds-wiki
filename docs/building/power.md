@@ -6,7 +6,7 @@ Most machines and all powered defenses need electricity. Power structures that s
 | --- | --- | --- |
 | :material-engine: Generator | Produces 4 | Burns fuel you load or deliver by belt: each Fuel lasts 60 s, Coal 25 s, Wood 10 s. Only burns while power is needed or a battery has room. |
 | :material-solar-panel: Solar Panel | Produces 2 | Free, but only by day, and only 30% during a [sandstorm](../world/sandstorms.md). |
-| :material-battery-high: Battery Bank | Stores up to 300 | Charges from surplus and covers shortfalls at night. Its lights show the charge. |
+| :material-battery-high: Battery Bank | Stores up to 300 | Charges from surplus and covers shortfalls at night. It sparks while it holds charge. |
 | :material-transmission-tower: Coil | Relay | Links power across a long gap. |
 
 ## Range

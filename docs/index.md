@@ -86,8 +86,8 @@ Stranded in an endless desert with nothing but a sword. Scavenge the oases, buil
 4. **Defend.** Every night the raids grow. Turrets, traps and your companion drone guard the base, and from day 3 the Dust Jumper may come hunting.
 
 <figure markdown>
-![A powered base at work: quarries, a kiln, storage and power cables](assets/images/factory.png)
-<figcaption>A small base on day 3: generator, quarries, kiln, belts and storage, linked by power cables.</figcaption>
+![A powered base at work: quarry, filter belt, kiln, greenhouse, solar panels and turrets, linked by power cables](assets/images/factory.png)
+<figcaption>A base on day 3: a quarry feeds a filter belt that sends copper to the kiln, a greenhouse fills a chest, and solar panels, a generator and a battery power it all.</figcaption>
 </figure>
 
 !!! tip "New here?"
