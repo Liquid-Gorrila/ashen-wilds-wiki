@@ -6,11 +6,11 @@
 
 | Where | What it shows |
 | --- | --- |
-| Top left | Health (with a number, which turns red at a quarter or less), stamina and hunger bars. Hunger turns red below a quarter. |
+| Top left | A large health bar, with stamina and hunger bars side by side beneath it. Hunger turns red below a quarter. |
 | Under the bars | Active [buffs](../survival/buffs.md), each with its seconds remaining |
 | Left side | Your current [objective](../start/objectives.md), its part, and progress when a goal needs several |
 | Top centre | The compass. During a boss fight, the boss's name and health bar sit just below it. |
-| Top right | Day number, time of day and the biome you're in ("scorching" in desert heat, "Sandstorm!" during a storm, "Cave" underground) |
+| Top right | The day number, the biome you're in ("scorching" in desert heat, "Sandstorm!" during a storm, "Cave" underground), and a sky dial for the time of day: the sun arcs across by day and the moon by night, and the sky turns orange at dawn and red at dusk |
 | Middle of the screen, below the compass | Short messages: warnings, finished goals and events |
 | Left, lower | Item pick-up notices |
 | Bottom centre | What you can use nearby, then your inventory bar (hidden while you carry nothing) |
@@ -39,6 +39,8 @@ The compass ribbon covers a full circle, with north (screen up) in the middle. M
 Markers you're standing on disappear. When two labels would overlap, one drops to a second row.
 
 ## Title menu
+
+The game opens with a short StonePath Games splash. Press any key or click to skip it.
 
 | Option | What it does |
 | --- | --- |

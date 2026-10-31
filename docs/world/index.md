@@ -37,7 +37,7 @@ Rock outcrops
 
 ## Landmarks
 
-The world is divided into regions of 40 by 40 cells, and about two thirds of regions hold one landmark.
+The world is divided into regions of 40 by 40 cells, and about two thirds of regions hold one landmark. Your camp stands alone: no other landmark lies within about 48 cells of it, so the nearest camp, merchant or cave is a real trek away.
 
 | Landmark | What you'll find |
 | --- | --- |
