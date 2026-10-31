@@ -8,10 +8,10 @@ Strike trees, deposits and rocks with your sword; a chop deals more damage than 
 
 | Item | Wild sources (finite) | Renewable sources |
 | --- | --- | --- |
-| Wood | Trees (1–3, big trees 3–5), dead trees (1–2), swamp and blood trees, merchant-camp crates, chests | Greenhouse (2 per harvest) |
-| Stone | Rock blocks (1–3), stone deposits (2–3), other deposits (0–1), Mire and Bloodfields rocks | Quarry, Advanced Quarry |
-| Coal | Coal deposits (1–2), cave seams, Mire rocks | Quarry in Desert or Badlands, Advanced Quarry, merchant |
-| Copper Ore | Copper deposits (1–2), cave seams, Spear Guards, Bloodfields swords, merchant-camp crates | Quarry where copper occurs |
+| Wood | Trees (1–2, big trees 2–3), dead trees (1), swamp and blood trees, merchant-camp crates, chests | Greenhouse (2 per harvest) |
+| Stone | Rock blocks (1–2), stone deposits (1–2), other deposits (0–1), Mire and Bloodfields rocks | Quarry, Advanced Quarry |
+| Coal | Coal deposits (1), cave seams, Mire rocks | Quarry in Desert or Badlands, Advanced Quarry, merchant |
+| Copper Ore | Copper deposits (1), cave seams, Spear Guards, Bloodfields swords, merchant-camp crates | Quarry where copper occurs |
 | Gold Ore | Gold deposits, cave seams, Tribe Brutes, gold chests, Dust Jumper, Relic Guardians | Quarry deep seams, merchant |
 | Cobalt Ore | Cobalt deposits, cave seams, Dust Jumper, Electrocutioners, Relic Guardians | Quarry deep seams |
 | Amethyst | Amethyst deposits, cave seams, Tamed Beasts, Broodmothers, Dust Jumper, Relic Guardians | Quarry deep seams, merchant |
@@ -45,7 +45,7 @@ The Trap Table makes either one: press ++r++ beside it to switch recipes. What e
 
 | Item | Sources |
 | --- | --- |
-| Berries | Berry bushes (2–3, regrow after 4 minutes), Greenhouse, merchant |
+| Berries | Berry bushes (1–2, regrow after 12 minutes), Greenhouse, merchant |
 | Vegetables | Planter (2 per harvest), Greenhouse |
 | Raw Meat | Sheep, boars, rabbits, chickens, Tamed Beasts |
 | Cooked Meat | Campfire, chests, merchants |

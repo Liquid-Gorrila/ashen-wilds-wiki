@@ -7,7 +7,7 @@ Every structure in the game, grouped by build menu tab. "Build near" is the stat
     | Structure | Cost | Build near |
     | --- | --- | --- |
     | Campfire | 6 Wood, 3 Stone | Anywhere |
-    | Planter | 5 Wood, 2 Berries | Anywhere |
+    | Planter | 8 Wood, 3 Berries | Workbench |
     | Storage | 8 Wood, 4 Stone | Anywhere |
 
 === "Stations"
@@ -29,7 +29,7 @@ Every structure in the game, grouped by build menu tab. "Build near" is the stat
     | --- | --- | --- |
     | Forge | 12 Stone, 4 Coal | Workbench |
     | Kiln | 14 Stone, 3 Coal | Workbench |
-    | Quarry | 10 Stone, 6 Wood, 3 Copper Ore | Workbench |
+    | Quarry | 14 Stone, 8 Wood, 3 Copper Bar | Workbench |
     | Fuel Refinery | 4 Copper Bar, 10 Stone, 2 Gear | Component Table |
     | Greenhouse | 10 Stone, 3 Copper Bar, 2 Gear | Component Table |
     | Bio Lab | 2 Gold Bar, 3 Gear, 2 Circuit | Automation Table |

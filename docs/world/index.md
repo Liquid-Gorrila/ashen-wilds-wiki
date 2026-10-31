@@ -1,6 +1,6 @@
 # The world
 
-Every run generates a new world from a random seed. It has no edge, and it loads in chunks around you as you travel. Most of it is desert; living biomes exist only as small oases, usually 10 to 20 cells across.
+Every run generates a new world from a random seed. It has no edge, and it loads in chunks around you as you travel. Most of it is barren desert; living biomes exist only as small, scattered oases. Your camp sits beside a tiny one.
 
 ![The world zoomed out: open desert with small oases, a camp, a tribe tent and a ruin](../assets/images/world.png)
 
@@ -19,7 +19,7 @@ Every run generates a new world from a random seed. It has no edge, and it loads
 | :material-water: Mire Oasis | Swamp trees, skull trees, giant tusks and skulls, mushrooms | Boar | Coal, copper |
 | :material-sword-cross: Bloodfields | Blood trees, swords in the ground, stone hands, statues, giant skulls | None | Stone, gold |
 
-The Mire is the wettest kind of oasis. The Bloodfields are old battlefields that lie out in the cooler, damper stretches of desert.
+The Mire is the wettest kind of oasis, and a rare find. The Bloodfields are old battlefields that lie out in the cooler, damper stretches of desert.
 
 Most Mire and Bloodfields props can be broken for materials: swamp and blood trees give wood (blood trees sometimes berries), tusks and skulls give bone, rocks give stone (and sometimes coal), and old swords give copper ore and the odd piece of gold. Each biome also has a rare landmark you can't break: the Great Tree in the Mire and the Gigantic Sword in the Bloodfields.
 
@@ -50,7 +50,7 @@ The world is divided into regions of 40 by 40 cells, and about two thirds of reg
 | Cave | A rock mound ringed by rich ore. It leads underground: see [Caves](caves.md). |
 
 !!! info "Nothing grows back"
-    Felled trees, mined deposits, opened chests and found racers stay gone, even after you save and load. Only berry bushes regrow, 4 minutes after you pick them.
+    Felled trees, mined deposits, opened chests and found racers stay gone, even after you save and load. Only berry bushes regrow, 12 minutes after you pick them, and animal herds slowly breed back.
 
 ## More about the world
 

@@ -1,24 +1,24 @@
 # First days
 
-Use day 1 to get a workbench and a fire up. Spend the next few days building toward a quarry, a kiln and a greenhouse, and by day 5 your base should be feeding and defending itself.
+The desert is harsh and the first days are a struggle: wood, copper and food are all scarce, and the oasis by your camp won't feed you for long. Use day 1 to get a fire and a workbench up and stay fed. Spend the next days scraping together copper for a kiln and a quarry. Once crops are growing and the quarry is digging for you, life gets much easier.
 
 The [objectives](objectives.md) on the left of the screen walk you through the same path. If you get lost, follow the compass's **Camp** and **Home** markers.
 
 === "Day 1"
 
-    1. Open the supply chest beside the tent. It holds 14 Wood, 10 Stone, 6 Berries, 3 Copper Ore and 4 Coal.
-    2. Build a **Workbench** (10 Wood, 6 Stone) in or near your oasis. This is your Home marker from now on.
-    3. Chop trees, hunt animals and pick berry bushes.
-    4. Before dusk, build a **Campfire** (6 Wood, 3 Stone). Cook your meat and stand in its light for a few seconds to become [Rested](../survival/buffs.md).
+    1. Open the supply chest beside the tent. It holds only 6 Wood, 4 Stone, 3 Berries and 1 Copper Ore.
+    2. Pick the two berry bushes and fell the two small trees by camp, then range out for dead trees and rock.
+    3. Build a **Campfire** (6 Wood, 3 Stone) early: cooked meat restores four times as much as raw, and animals are your best food. Stand in its light for a few seconds to become [Rested](../survival/buffs.md).
+    4. Build a **Workbench** (10 Wood, 6 Stone) once you can. This is your Home marker from now on.
     5. When raiders come, [roll](../combat/index.md#rolling) through their swings and use heavy chops on the tougher ones.
 
 === "Days 2–4"
 
-    1. Ride the [Speed Racer](../world/speed-racer.md) to rock outcrops and deposits for stone, copper and coal.
-    2. Build a **Generator** (3 Copper Ore, 8 Stone) and load it with coal or wood.
-    3. Build a **Quarry** (10 Stone, 6 Wood, 3 Copper Ore) and a **Kiln** (14 Stone, 3 Coal) inside the generator's reach.
-    4. Smelt 4 Copper Bars and build the **Component Table**. It unlocks the Greenhouse, solar power, batteries and belts.
-    5. Build a **Greenhouse**. It is your only renewable wood, and a steady supply of food.
+    1. Build two or three **Planters** (8 Wood, 3 Berries each, near the workbench). Together they keep you fed.
+    2. Ride the [Speed Racer](../world/speed-racer.md) far afield for copper and coal. Deposits are rare and give only one ore each, so copper is the bottleneck.
+    3. Build a **Generator** (3 Copper Ore, 8 Stone) and a **Kiln** (14 Stone, 3 Coal) beside it, and smelt 3 Copper Bars.
+    4. Build a **Quarry** (14 Stone, 8 Wood, 3 Copper Bars) inside the generator's reach. From here it digs stone and local ore for you around the clock.
+    5. Build the **Component Table**, then a **Greenhouse**: your only renewable wood, and steady food.
 
 === "Days 5+"
 

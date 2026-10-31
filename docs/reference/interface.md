@@ -17,6 +17,12 @@
 
 The title screen shows only the menu; the HUD appears when you start playing.
 
+## In the world
+
+- **Gold outline:** the thing you'd use with ++e++ (a chest, bush, merchant, machine, racer, relic or cave) gets a pulsing gold outline. The bottom of the screen says what using it will do.
+- **Progress bubble:** a small bubble over a working quarry, kiln, refinery, greenhouse or bio lab fills up as it works through its current item. Over a planter, it fills as the crop grows towards its next stage.
+- **Red no-power icon:** a machine that wants power but has none. See [Power](../building/power.md).
+
 ## Compass
 
 The compass ribbon covers a full circle, with north (screen up) in the middle. Markers sit at their direction from you, labelled with their distance.

@@ -14,7 +14,7 @@ Emptying
 
 | Machine | Cycle | Power | Input | Output |
 | --- | --- | --- | --- | --- |
-| Quarry | 7 s | 2 | — | Stone (about 70%) or a local ore (about 30%). 4% chance of a deep seam: gold, cobalt or amethyst. |
+| Quarry | 5 s | 2 | — | Stone (about 60%) or a local ore (about 40%). 4% chance of a deep seam: gold, cobalt or amethyst. |
 | Advanced Quarry | 4 s | 3 | — | Local ore (60%), coal (15%) or stone. 10% chance of a deep seam. |
 | Kiln | 5 s | 2 | 1 Copper, Gold or Cobalt Ore | 1 matching bar |
 | Fuel Refinery | 6 s | 2 | 2 Coal | 1 Fuel |
@@ -28,6 +28,6 @@ Emptying
 
 | Structure | What it does |
 | --- | --- |
-| Planter | Grows a random crop through three stages, about 22 s each. Harvest when ripe for 2 Vegetables. |
+| Planter | Grows a random crop through three stages, about 45 s each. Harvest when ripe for 2 Vegetables. |
 | Campfire | Cooks up to 5 Raw Meat into Cooked Meat at a time. Also lights the area and makes you [Rested](../survival/buffs.md). |
 | Forge, Advanced Forge | Upgrade your sword. See [Sword upgrades](defense.md#sword-upgrades). |

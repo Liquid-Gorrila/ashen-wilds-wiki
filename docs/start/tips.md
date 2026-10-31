@@ -12,7 +12,8 @@
 - **Spread your quarries.** A quarry digs the ores of the biome it stands in, so quarries in different oases give you different ores. See [The world](../world/index.md#biomes).
 - **Scout with the racer.** Cave entrances are ringed by rich gold, cobalt and amethyst, and caves hold far more underground.
 - **Bone is money.** Raiders and animals drop bone, and [merchants](../world/merchants.md) trade it for coal, gold, amethyst and cooked meat.
-- **Plant early.** A Planter costs only wood and berries and gives vegetables you'll need for Serum later.
+- **Plant early.** Planters are the first food that doesn't run out. Save berries for them instead of eating every one.
+- **Copper is the bottleneck.** Every copper deposit gives just one ore, and you need about six for a generator and a quarry. Note deposits you pass and fetch them with the racer.
 
 ## Power
 

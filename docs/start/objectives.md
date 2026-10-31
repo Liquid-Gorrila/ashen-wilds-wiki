@@ -1,6 +1,6 @@
 # Objectives
 
-A tutorial series guides your first days. It has 34 goals in seven parts and shows one goal at a time on the left of the screen. Each goal tells you what to do, not which key to press, and completes with a chime the moment you do it.
+A tutorial series guides your first days. It has 35 goals in seven parts and shows one goal at a time on the left of the screen. Each goal tells you what to do, not which key to press, and completes with a chime the moment you do it.
 
 Progress is saved with your game. You can hide the panel in [Settings](../reference/interface.md#settings).
 
@@ -40,8 +40,10 @@ Progress is saved with your game. You can hide the panel in [Settings](../refere
 2. Mine copper ore (2 deposits)
 3. Build a generator
 4. Fuel the generator
-5. Build a quarry
-6. Let the quarry dig something up
+5. Build a kiln
+6. Smelt copper bars (3)
+7. Build a quarry
+8. Let the quarry dig something up
 
 </div>
 
@@ -49,11 +51,10 @@ Progress is saved with your game. You can hide the panel in [Settings](../refere
 
 ### 4 · Industry
 
-1. Build a kiln
-2. Smelt copper bars (4)
-3. Build a component table
-4. Craft a gear
-5. Run a conveyor line into storage
+1. Grow and harvest vegetables
+2. Build a component table
+3. Craft a gear
+4. Run a conveyor line into storage
 
 </div>
 

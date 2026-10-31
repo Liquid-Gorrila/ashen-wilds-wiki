@@ -15,8 +15,8 @@ When you eat, you always eat the best food you're carrying, in the order below.
 
 === "Wild"
 
-    - **Berry bushes** grow in every oasis. Each gives 2–3 berries and regrows 4 minutes after you pick it.
-    - **Animals** drop raw meat: sheep 2, boars 2–3, rabbits and chickens 1. Tamed Beasts drop 2–3.
+    - **Berry bushes** grow only in oases. Each gives 1–2 berries and takes 12 minutes to regrow, so bushes alone can't feed you. Two grow by your camp.
+    - **Animals** drop raw meat: sheep 2, boars 2–3, rabbits and chickens 1. Tamed Beasts drop 2–3. Each oasis has a limited herd: hunt it out and only the survivors come back, plus about one newborn every 4 minutes, up to the original herd. Spread your hunting across oases.
     - **Chests** often hold cooked meat.
 
 === "Cooking"
@@ -26,6 +26,6 @@ When you eat, you always eat the best food you're carrying, in the order below.
 
 === "Farming"
 
-    - **Planter** (no power): grows a crop through three stages of about 22 s each. Harvest it for 2 Vegetables.
+    - **Planter** (no power, built near a workbench): grows a crop through three stages of about 45 s each. Harvest it for 2 Vegetables. One planter roughly keeps pace with your hunger; two or three put you ahead.
     - **Greenhouse** (powered): every 12 s, makes 2 Berries, 1 Vegetables or 2 Wood. It runs unattended and can feed a belt.
     - **Bio Lab** (powered): turns 1 Vegetables and 1 Bone into a Serum every 8 s.
