@@ -13,6 +13,7 @@ Attacks aim at the mouse cursor when you use the mouse, otherwise in the directi
 | Throw a Flame Bottle | ++q++ | Aims at the cursor |
 | Throw a Poison Bottle | ++g++ | Aims at the cursor |
 | Next recipe at a station that crafts more than one thing | ++r++ | |
+| Pack (inventory) | ++i++ | |
 | Build menu | ++c++ or ++tab++ | |
 | Dismantle | ++x++ | Takes down the structure under the cursor |
 | Pause | ++esc++ or ++p++ | |
@@ -28,6 +29,14 @@ Attacks aim at the mouse cursor when you use the mouse, otherwise in the directi
 | Build at the green ghost | Left click, ++e++ or ++enter++ |
 | Rotate belts, transporters, filters, splitters and flamethrowers | ++r++ |
 | Close | ++c++ or ++esc++ |
+
+## Pack
+
+| Action | Key |
+| --- | --- |
+| Choose an item | ++w++ ++a++ ++s++ ++d++, or point with the mouse |
+| Eat the chosen food, or throw the chosen bottle | ++e++, ++f++ or left click |
+| Close | ++i++, ++esc++ or ++c++ |
 
 ## Speed Racer
 

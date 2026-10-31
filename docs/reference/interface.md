@@ -13,7 +13,7 @@
 | Top right | The day number, the biome you're in ("scorching" in desert heat, "Sandstorm!" during a storm, "Cave" underground), and a sky dial for the time of day: the sun arcs across by day and the moon by night, and the sky turns orange at dawn and red at dusk |
 | Middle of the screen, below the compass | Short messages: warnings, finished goals and events |
 | Left, lower | Item pick-up notices |
-| Bottom centre | What you can use nearby, then your inventory bar (hidden while you carry nothing) |
+| Bottom centre | What you can use nearby, then your inventory bar (hidden while you carry nothing). Point at an item to see its name and count. |
 
 The title screen shows only the menu; the HUD appears when you start playing.
 
@@ -61,6 +61,14 @@ The game opens with a short StonePath Games splash. Press any key or click to sk
 
 The pause screen also shows the day, how many raiders you've slain and any relic [boons](../combat/boons.md) you have.
 
+## Pack
+
+Press ++i++ to open your pack. The world waits while it's open.
+
+The grid shows everything you carry, with counts, and the header totals it up. The panel beside it describes the chosen item: where it comes from, what it does when eaten, burned in a generator, smelted or thrown, and everything it's used for (buildings, blade upgrades and station crafts).
+
+Choose a food and press ++e++ to eat that one rather than the best food. Plain food won't be eaten when your hunger and health are both full, but serum and elixir still will, for their buffs. Choosing a bottle and pressing ++e++ closes the pack and throws it.
+
 ## Build menu
 
 ![The build menu on the Production tab, with the Quarry selected](../assets/images/build-menu.png)
@@ -74,8 +82,8 @@ Settings are remembered between sessions. Sliders show their level as a percenta
 | Setting | Default | Effect |
 | --- | --- | --- |
 | Master volume | 80% | All sound |
-| Music volume | 35% | The day and night themes |
-| Effects volume | 80% | Combat, machines, wind, menus and everything else |
+| Music volume | 35% | The themes for day, night, caves, sandstorms and boss fights |
+| Effects volume | 80% | Combat, footsteps, machines, campfires, wind, the desert ambience, menus and everything else |
 | Fullscreen | Off | Fullscreen or windowed |
 | Screen shake | On | Camera shake on hits and explosions |
 | Show FPS | Off | Frame-rate counter in the top right (also ++f3++) |
