@@ -1,15 +1,16 @@
 # Food
 
-When you eat, you always eat the best food you're carrying, in the order below.
+Press ++f++ to eat or drink whatever you need most: water when you're thirstier than hungry, the most filling food when you're hungrier. Serum and Elixir are kept until nothing plainer will do, and raw meat comes last. To pick something yourself, choose it in your [pack](../reference/interface.md#pack).
 
-| Food | Hunger | Health | Bonus | How to get it |
-| --- | --- | --- | --- | --- |
-| Elixir | +15 | +6 | [Blazing](buffs.md) for 40 s | Alchemy Table: 3 Berries + 1 Amethyst |
-| Serum | +25 | +3 | [Shielded](buffs.md) for 45 s | Bio Lab: 1 Vegetables + 1 Bone |
-| Cooked Meat | +35 | +2 | | Campfire, chests, merchants |
-| Vegetables | +22 | +1 | | Planter, Greenhouse |
-| Berries | +12 | | | Berry bushes, Greenhouse, merchants |
-| Raw Meat | +8 | | | Hunting |
+| Food | Hunger | Thirst | Health | Bonus | How to get it |
+| --- | --- | --- | --- | --- | --- |
+| Elixir | +15 | +10 | +6 | [Blazing](buffs.md) for 40 s | Alchemy Table: 3 Berries + 1 Amethyst |
+| Serum | +25 | +15 | +3 | [Shielded](buffs.md) for 45 s | Bio Lab: 1 Vegetables + 1 Bone |
+| Cooked Meat | +35 | | +2 | | Campfire, chests, merchants |
+| Vegetables | +22 | +12 | +1 | | Planter, Greenhouse |
+| Berries | +12 | +8 | | | Berry bushes, Greenhouse, merchants |
+| Water | | +45 | | | Fill your waterskins at an oasis pool (carry 3) |
+| Raw Meat | +8 | | | 30% chance of [Poisoned](buffs.md#ailments) | Hunting |
 
 ## Where food comes from
 

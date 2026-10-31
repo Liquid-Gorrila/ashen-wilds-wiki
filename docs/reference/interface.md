@@ -6,8 +6,8 @@
 
 | Where | What it shows |
 | --- | --- |
-| Top left | A large health bar, with stamina and hunger bars side by side beneath it. Hunger turns red below a quarter. |
-| Under the bars | Active [buffs](../survival/buffs.md), each with its seconds remaining |
+| Top left | A large health bar, with stamina, hunger and thirst bars side by side beneath it. Hunger and thirst turn red below a quarter. Point at a bar to see what's draining it. |
+| Under the bars | Active [buffs and ailments](../survival/buffs.md), each with its seconds remaining |
 | Left side | Your current [objective](../start/objectives.md), its part, and progress when a goal needs several |
 | Top centre | The compass. During a boss fight, the boss's name and health bar sit just below it. |
 | Top right | The day number, the biome you're in ("scorching" in desert heat, "Sandstorm!" during a storm, "Cave" underground), and a sky dial for the time of day: the sun arcs across by day and the moon by night, and the sky turns orange at dawn and red at dusk |
@@ -67,7 +67,7 @@ Press ++i++ to open your pack. The world waits while it's open.
 
 The grid shows everything you carry, with counts, and the header totals it up. The panel beside it describes the chosen item: where it comes from, what it does when eaten, burned in a generator, smelted or thrown, and everything it's used for (buildings, blade upgrades and station crafts).
 
-Choose a food and press ++e++ to eat that one rather than the best food. Plain food won't be eaten when your hunger and health are both full, but serum and elixir still will, for their buffs. Choosing a bottle and pressing ++e++ closes the pack and throws it.
+Choose a food or water and press ++e++ to eat or drink that one. Nothing is eaten if it would do nothing (every meter it fills is full, and your health too), but serum and elixir still will be, for their buffs. Choosing a bottle and pressing ++e++ closes the pack and throws it.
 
 ## Build menu
 

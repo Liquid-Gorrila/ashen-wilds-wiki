@@ -86,7 +86,7 @@ nav:
   - Survival:
       - survival/index.md
       - Food: survival/food.md
-      - Buffs: survival/buffs.md
+      - Buffs and ailments: survival/buffs.md
   - Combat:
       - combat/index.md
       - Raiders and wildlife: combat/enemies.md

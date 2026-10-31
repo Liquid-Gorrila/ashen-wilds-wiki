@@ -1,35 +1,56 @@
 # Survival
 
-You have three meters in the top left of the screen: health, stamina and hunger. Keep hunger up and health mostly takes care of itself.
+You have four meters in the top left of the screen: health, then stamina, hunger and thirst side by side. Keep hunger and thirst up and health mostly takes care of itself.
 
 <div class="aw-stats" markdown>
 <div><strong>10</strong><span>health</span></div>
 <div><strong>11</strong><span>stamina</span></div>
 <div><strong>100</strong><span>hunger</span></div>
+<div><strong>100</strong><span>thirst</span></div>
 </div>
 
 | Meter | How it works |
 | --- | --- |
-| :material-heart: Health | Lost to attacks and starvation. After a hit you are invulnerable for 1.1 s. At 0, the run is over. |
+| :material-heart: Health | Lost to attacks, poison, starvation and thirst. After a hit you are invulnerable for 1.1 s. At 0, the run is over. |
 | :material-lightning-bolt: Stamina | A roll costs 3 and a chop costs 4. Refills at 3.5 per second after a 0.6 s pause. |
-| :material-food-apple: Hunger | Drains 0.32 per second: about 5 minutes from full to empty. The bar turns red below a quarter. |
+| :material-food-apple: Hunger | Drains 0.32 per second at base: about 5 minutes from full to empty. The bar turns red below a quarter. |
+| :material-water: Thirst | Drains 0.3 per second at base, but the sun and heat change that a lot (see below). The bar turns red below a quarter. |
 
-## Healing and starving
+Point at a meter to see its value, how fast it's moving and everything that's speeding it up or slowing it down right now.
 
-- **Regeneration:** while hunger is at 60 or more, you heal 1 health every 10 seconds.
-- **Food:** most foods heal you as well as filling you up. See [Food](food.md).
-- **Starvation:** at 0 hunger you lose 1 health every 5 seconds.
+## What drains you faster
 
-## Desert heat
+Your surroundings scale how fast each meter moves. Everything that applies multiplies together.
 
-In the open Desert or the Scorched Badlands during the day, hunger drains 1.6 times faster and the HUD reads "scorching".
+| When | Hunger | Thirst | Stamina refill |
+| --- | --- | --- | --- |
+| Daytime | | ×1.25 | |
+| Night | | ×0.6 | |
+| Scorching heat | ×1.3 | ×1.5 | |
+| Sandstorm | ×1.5 | ×1.3 | |
+| In a cave | | ×0.5 | |
+| Thirst below a quarter (parched) | | | ×0.6 |
+| Hunger empty (starving) | | | ×0.5 |
+
+**Scorching heat** is the open Desert, the Scorched Badlands and the Bloodfields during the day. The HUD reads "scorching". Out there by day, thirst empties in about 3 minutes, so plan your trips between water.
 
 !!! tip "Your base is shade"
-    Standing within a few cells of any structure you've built cancels the heat penalty.
+    Standing within a few cells of any structure you've built cancels the heat.
 
-## Buffs
+## Water
 
-Resting by your campfire, eating Serum and eating Elixir each grant a timed boost. See [Buffs](buffs.md).
+- **Oasis pools** are the only water in the desert. Use one (++e++) to drink your fill and top up your waterskins. Drinking your fill also leaves you [Refreshed](buffs.md): thirst drains at half speed for 90 seconds. Your camp has a pool, and more lie deep in the living oases, the wet Mire most of all.
+- **Waterskins:** you can carry 3 Water. Each restores 45 thirst.
+- **Food:** berries, vegetables, serum and elixir all restore a little thirst too. See [Food](food.md).
+- ++f++ eats or drinks whatever you need most.
+
+## Healing, starving and thirst
+
+- **Regeneration:** while hunger and thirst are both at 60 or more, you heal 1 health every 10 seconds.
+- **Food:** most foods heal you as well as filling you up.
+- **Starvation:** at 0 hunger you lose 1 health every 5 seconds.
+- **Dying of thirst:** at 0 thirst you lose 1 health every 4 seconds.
+- **Poison:** a spitter's acid, or bad raw meat, poisons you: 1 health a second until it wears off. See [Buffs and ailments](buffs.md).
 
 ## Death
 

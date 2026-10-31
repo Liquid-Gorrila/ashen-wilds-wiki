@@ -9,7 +9,7 @@ Attacks aim at the mouse cursor when you use the mouse, otherwise in the directi
 | Chop (heavy attack, costs stamina) | ++k++ | Right click |
 | Roll (dodge, costs stamina) | ++space++ or ++shift++ | |
 | Use / interact | ++e++ | |
-| Eat best food | ++f++ | |
+| Eat or drink what you need most | ++f++ | |
 | Throw a Flame Bottle | ++q++ | Aims at the cursor |
 | Throw a Poison Bottle | ++g++ | Aims at the cursor |
 | Next recipe at a station that crafts more than one thing | ++r++ | |

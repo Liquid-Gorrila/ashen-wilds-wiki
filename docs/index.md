@@ -48,7 +48,7 @@ Stranded in an endless desert with nothing but a sword. Scavenge the oases, buil
 
     ---
 
-    Health, stamina and hunger, every food in the game, and the three buffs.
+    Health, stamina, hunger and thirst, water, every food in the game, buffs and ailments.
 
     [:octicons-arrow-right-24: Stay alive](survival/index.md)
 

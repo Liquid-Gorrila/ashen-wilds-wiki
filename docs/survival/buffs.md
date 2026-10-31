@@ -1,6 +1,6 @@
-# Buffs
+# Buffs and ailments
 
-Buffs are timed boosts. Each one plays its own animation around you when you gain it, and shows under your meters with a countdown. Gaining a buff you already have resets its timer.
+Buffs are timed boosts and ailments are timed harms. Each shows under your meters with a countdown, buffs in gold and ailments in red. Gaining one you already have resets its timer.
 
 <div class="grid cards" markdown>
 
@@ -34,9 +34,33 @@ Buffs are timed boosts. Each one plays its own animation around you when you gai
 
     **Effect:** +2 sword damage, and every hit sets the target burning for 1 damage a second over 3 seconds.
 
+-   :material-water:{ .lg .middle } **Refreshed**
+
+    ---
+
+    **How:** drink your fill at an oasis pool.
+
+    **Lasts:** 90 seconds
+
+    **Effect:** thirst drains at half speed.
+
 </div>
 
-Serum comes from the [Bio Lab](../building/production.md) and Elixir from the Alchemy Table. Both are also [food](food.md), so they get eaten when they are the best food you carry.
+## Ailments
+
+<div class="grid cards" markdown>
+
+-   :material-bottle-tonic-skull:{ .lg .middle } **Poisoned**
+
+    ---
+
+    **How:** hit by a spitter's acid (3 s), or unlucky with raw meat (a 30% chance, 5 s).
+
+    **Effect:** you lose 1 health a second until it wears off.
+
+</div>
+
+Serum comes from the [Bio Lab](../building/production.md) and Elixir from the Alchemy Table. Both are also [food](food.md). ++f++ saves them until nothing plainer will do.
 
 !!! note
-    Shielded only reduces damage from hits. Starvation is not reduced. Healing plays its own animation but is not a buff.
+    Shielded only reduces damage from hits. Starvation, thirst and poison are not reduced. Healing plays its own animation but is not a buff.

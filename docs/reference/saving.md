@@ -15,7 +15,7 @@ The world is rebuilt from its seed, so the save only records what you changed:
 - trees you felled, deposits you mined, chests you opened and bushes you picked
 - caves you've silenced
 - Speed Racers and their fuel
-- your position, health, hunger, stamina, active buffs and inventory
+- your position, health, stamina, hunger, thirst, active buffs and ailments, and inventory
 - sword upgrades, the day and time, raiders slain and tutorial progress
 
 Raiders on the map aren't saved; a loaded game starts with none nearby. If you save in a cave, you load at its entrance.

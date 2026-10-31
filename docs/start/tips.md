@@ -3,7 +3,8 @@
 ## Your base
 
 - **Build at an oasis edge.** You get trees and animals close by, and open sand for machines.
-- **Your structures are shade.** Within a few cells of anything you've built, desert heat stops draining extra hunger and sandstorm wind barely moves you.
+- **Your structures are shade.** Within a few cells of anything you've built, desert heat stops drying you out and sandstorm wind barely moves you.
+- **Drink before you leave.** Fill your three waterskins at a pool before a long trip, and set out at dusk if you can: thirst drains less than half as fast at night as in the scorching day.
 - **Mistakes are free.** Dismantle a structure for a full refund of its cost plus anything stored inside.
 - **Keep turret lines clear.** Turret bolts stop on trees, rocks and buildings.
 
