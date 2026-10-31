@@ -15,7 +15,7 @@ Attacks aim at the mouse cursor when you use the mouse, otherwise in the directi
 | Next recipe at a station that crafts more than one thing | ++r++ | |
 | Pack (inventory) | ++i++ | |
 | Build menu | ++c++ or ++tab++ | |
-| Dismantle | ++x++ | Takes down the structure under the cursor |
+| Dismantle | ++x++ | Point anywhere on one of your buildings (within reach) and press ++x++. Without a mouse, it takes the building beside you. |
 | Pause | ++esc++ or ++p++ | |
 | FPS counter | ++f3++ | |
 
@@ -28,6 +28,7 @@ Attacks aim at the mouse cursor when you use the mouse, otherwise in the directi
 | Choose where to build | Point with the mouse (within about 7 m), or face the spot |
 | Build at the green ghost | Left click, ++e++ or ++enter++ |
 | Rotate belts, transporters, filters, splitters and flamethrowers | ++r++ |
+| Dismantle the building you point at | ++x++ |
 | Close | ++c++ or ++esc++ |
 
 ## Pack

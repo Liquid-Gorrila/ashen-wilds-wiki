@@ -15,9 +15,9 @@ Reach is a distance on screen, so on the diamond grid it covers more rows up and
 
 | Link | Reach | Side to side | Up and down |
 | --- | --- | --- | --- |
-| Power structure to power structure | 56 px | about 3½ tiles | about 7 rows |
-| Either end is a Coil | 110 px | about 7 tiles | about 14 rows |
-| Machine to the nearest power structure | 60 px | about 4 tiles | about 7 rows |
+| Power structure to power structure | 80 px | about 5 tiles | about 10 rows |
+| Either end is a Coil | 160 px | about 10 tiles | about 20 rows |
+| Machine to the nearest power structure | 100 px | about 6 tiles | about 12 rows |
 
 !!! tip "Let the rings show you"
     While you place a machine or a power structure, blue rings show how far each of your power structures reaches, and a green cable previews what it will connect to. A machine whose ghost turns amber would sit out of reach. You can still build it, but you'll get a warning.
@@ -28,7 +28,7 @@ Use a machine (++e++) to read its status, or look at its prompt as you walk up:
 
 | Status | What to do |
 | --- | --- |
-| too far from a generator | Move it inside a power structure's reach (dismantling refunds the full cost), or bridge the gap with a Coil. |
+| too far from a generator | Move it inside a power structure's reach (dismantle it with ++x++ for a full refund, then rebuild), or bridge the gap with a Coil. |
 | the generator needs fuel | Load Fuel, Coal or Wood into the generator, or feed it by belt. |
 | the solar panels need sun | Wait for day, or add a battery or generator for the night. |
 | not enough to go round | Add generators, solar panels or batteries. See Shortages below. |
