@@ -1,5 +1,16 @@
 # Release notes
 
+## 1.0.1: Gentler nights
+
+The night raids ramped up too fast: by night 3 you could face ten raiders at once, brutes, and very likely the Dust Jumper. Now the pressure builds over a week. See [Day and night](../world/day-night.md#how-night-raids-escalate).
+
+- Night 3 is at most 5 raiders at once, in groups of 1–2, and only warriors, archers and hunters.
+- Spear Guards join on day 4, Tribe Brutes on day 5 and Tamed Beasts on day 7.
+- The Dust Jumper can appear from day 5 (was day 3), rolled once as night falls.
+- Elites lead waves from day 6 (Dust Warrior) and day 8 (Electrocutioner).
+- Daytime raiders start on day 3 (was day 2).
+- A group of raiders never takes the count past the night's limit.
+
 ## 1.0: Water and heat
 
 The desert now fights back with heat as well as raiders, and water becomes something you build for.

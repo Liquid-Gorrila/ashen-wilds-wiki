@@ -83,7 +83,7 @@ Stranded in an endless desert with nothing but a sword. Scavenge the oases, buil
 1. **Scavenge.** Loot the starting camp, chop trees, mine rocks, hunt and forage in your oasis.
 2. **Climb the tech tree.** Each crafting station unlocks the next set of buildings.
 3. **Automate.** Wild resources never grow back. Quarries, kilns, greenhouses, power and conveyor belts make them for you.
-4. **Defend.** Every night the raids grow. Turrets, traps and your companion drone guard the base, and from day 3 the Dust Jumper may come hunting.
+4. **Defend.** Every night the raids grow. Turrets, traps and your companion drone guard the base, and from day 5 the Dust Jumper may come hunting.
 
 <figure markdown>
 ![A powered base at work: quarry, filter belt, kiln, greenhouse, solar panels and turrets, linked by power cables](assets/images/factory.png)

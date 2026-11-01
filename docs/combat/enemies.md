@@ -2,7 +2,7 @@
 
 ## Raiders
 
-Raiders come at night, and in pairs during the day from day 2. Tougher ones join the pool as the days go by: see [Day and night](../world/day-night.md#how-night-raids-escalate).
+Raiders come at night, and in pairs during the day from day 3. Tougher ones join the pool as the days go by: see [Day and night](../world/day-night.md#how-night-raids-escalate).
 
 | Raider | Health | Damage | Behaviour | Drops |
 | --- | --- | --- | --- | --- |
@@ -18,12 +18,12 @@ Raiders come at night, and in pairs during the day from day 2. Tougher ones join
 
 ## Elites
 
-From day 4, about one night wave in four is led by an elite, with never more than one elite at a time. A message announces it as it arrives.
+From day 6, about one night wave in five is led by an elite, with never more than one elite at a time. A message announces it as it arrives.
 
 | Elite | From | Health | Behaviour | Drops |
 | --- | --- | --- | --- | --- |
-| Dust Warrior | Day 4 | 36 | Slashes up close for 2. Every third attack becomes a whirling spin that chases you (1 damage every 0.3 s while you're caught) and ends in a burst for 2. | 1–2 Bone, 0–1 Copper Bar |
-| Electrocutioner | Day 5 | 32 | Keeps its distance and calls lightning onto the spot you stand: a marker shows it 0.75 s before it strikes for 2. If you get close it shocks the ground for 2, and every few seconds it teleports away. | 1–2 Cobalt Ore, 0–1 Circuit |
+| Dust Warrior | Day 6 | 36 | Slashes up close for 2. Every third attack becomes a whirling spin that chases you (1 damage every 0.3 s while you're caught) and ends in a burst for 2. | 1–2 Bone, 0–1 Copper Bar |
+| Electrocutioner | Day 8 | 32 | Keeps its distance and calls lightning onto the spot you stand: a marker shows it 0.75 s before it strikes for 2. If you get close it shocks the ground for 2, and every few seconds it teleports away. | 1–2 Cobalt Ore, 0–1 Circuit |
 
 !!! tip "Elites"
     Roll away when the Dust Warrior starts spinning, then punish it as the spin ends. Against the Electrocutioner, never stand still: keep moving and the lightning lands behind you.

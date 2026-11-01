@@ -1,6 +1,6 @@
 # The Dust Jumper
 
-From day 3, the Dust Jumper may hunt you once a night (35% chance). It has **40 health**, shown in a bar at the top of the screen, and the compass shows a red **Boss** marker while it's after you.
+From day 5, the Dust Jumper may hunt you once a night (a 35% chance, rolled as night falls). It has **40 health**, shown in a bar at the top of the screen, and the compass shows a red **Boss** marker while it's after you.
 
 ## Attacks
 

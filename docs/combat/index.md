@@ -36,7 +36,7 @@ Bottles are crafted at the [Trap Table](../building/index.md) and thrown toward 
 
 -   :material-skull-crossbones:{ .lg .middle } **[The Dust Jumper](boss.md)**
 
-    The leaping boss that hunts you from day 3.
+    The leaping boss that hunts you from day 5.
 
 -   :material-quadcopter:{ .lg .middle } **[Companion drone](companion.md)**
 
