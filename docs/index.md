@@ -19,8 +19,8 @@ Stranded in an endless desert with nothing but a sword. Scavenge the oases, buil
 <div class="aw-stats" markdown>
 <div><strong>∞</strong><span>procedural desert</span></div>
 <div><strong>7</strong><span>oasis biomes</span></div>
-<div><strong>32</strong><span>buildable structures</span></div>
-<div><strong>30</strong><span>tutorial objectives</span></div>
+<div><strong>35</strong><span>buildable structures</span></div>
+<div><strong>41</strong><span>tutorial objectives</span></div>
 <div><strong>1</strong><span>save. Death is final.</span></div>
 </div>
 

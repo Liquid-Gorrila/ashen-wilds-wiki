@@ -6,11 +6,11 @@
 
 | Where | What it shows |
 | --- | --- |
-| Top left | A large health bar, with stamina, hunger and thirst bars side by side beneath it. Hunger and thirst turn red below a quarter. Point at a bar to see what's draining it. |
+| Top left | A large health bar, with stamina, hunger, thirst and cool bars side by side beneath it. Hunger and thirst turn red below a quarter. Point at a bar to see what's draining it. |
 | Under the bars | Active [buffs and ailments](../survival/buffs.md), each with its seconds remaining |
 | Left side | Your current [objective](../start/objectives.md), its part, and progress when a goal needs several |
 | Top centre | The compass. During a boss fight, the boss's name and health bar sit just below it. |
-| Top right | The day number, the biome you're in ("scorching" in desert heat, "Sandstorm!" during a storm, "Cave" underground), and a sky dial for the time of day: the sun arcs across by day and the moon by night, and the sky turns orange at dawn and red at dusk |
+| Top right | The day number, the biome you're in ("midday sun" or "scorching" while the sun wears down your cool, "in shade" out of it, "Sandstorm!" during a storm, "Cave" underground), and a sky dial for the time of day: the sun arcs across by day and the moon by night, and the sky turns orange at dawn and red at dusk |
 | Middle of the screen, below the compass | Short messages: warnings, finished goals and events |
 | Left, lower | Item pick-up notices |
 | Bottom centre | What you can use nearby, then your inventory bar (hidden while you carry nothing). Point at an item to see its name and count. |

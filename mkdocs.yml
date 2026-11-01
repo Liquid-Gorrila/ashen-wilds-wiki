@@ -86,6 +86,8 @@ nav:
   - Survival:
       - survival/index.md
       - Food: survival/food.md
+      - Water: survival/water.md
+      - Heat and shade: survival/heat.md
       - Buffs and ailments: survival/buffs.md
   - Combat:
       - combat/index.md
@@ -108,4 +110,5 @@ nav:
       - Items: reference/items.md
       - Saving: reference/saving.md
       - FAQ: reference/faq.md
+      - Release notes: reference/changelog.md
       - Credits: reference/credits.md

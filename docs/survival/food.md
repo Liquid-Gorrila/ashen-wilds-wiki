@@ -9,7 +9,7 @@ Press ++f++ to eat or drink whatever you need most: water when you're thirstier 
 | Cooked Meat | +35 | | +2 | | Campfire, chests, merchants |
 | Vegetables | +22 | +12 | +1 | | Planter, Greenhouse |
 | Berries | +12 | +8 | | | Berry bushes, Greenhouse, merchants |
-| Water | | +45 | | | Fill your waterskins at an oasis pool (carry 3) |
+| Water | | +45 | | | Also +20 cool. From an oasis pool (fills 3), a well or a condenser |
 | Raw Meat | +8 | | | 30% chance of [Poisoned](buffs.md#ailments) | Hunting |
 
 ## Where food comes from
@@ -27,6 +27,6 @@ Press ++f++ to eat or drink whatever you need most: water when you're thirstier 
 
 === "Farming"
 
-    - **Planter** (no power, built near a workbench): grows a crop through three stages of about 45 s each. Harvest it for 2 Vegetables. One planter roughly keeps pace with your hunger; two or three put you ahead.
-    - **Greenhouse** (powered): every 12 s, makes 2 Berries, 1 Vegetables or 2 Wood. It runs unattended and can feed a belt.
+    - **Planter** (no power, built near a workbench): grows a crop through three stages of about 45 s each once watered (1 Water per crop, or a well nearby waters it). Harvest it for 2 Vegetables. One planter roughly keeps pace with your hunger; two or three put you ahead.
+    - **Greenhouse** (powered, uses 1 Water each time): every 15 s, makes 2 Berries, 1 Vegetables or 2 Wood. It runs unattended and can feed a belt.
     - **Bio Lab** (powered): turns 1 Vegetables and 1 Bone into a Serum every 8 s.

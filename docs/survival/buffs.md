@@ -1,6 +1,6 @@
 # Buffs and ailments
 
-Buffs are timed boosts and ailments are timed harms. Each shows under your meters with a countdown, buffs in gold and ailments in red. Gaining one you already have resets its timer.
+Buffs are boosts and ailments are harms. Each shows under your meters, buffs in gold and ailments in red. Timed ones show a countdown, and gaining one you already have resets its timer. Overheated and Heatstroke have no countdown: they last as long as you stay too hot.
 
 <div class="grid cards" markdown>
 
@@ -58,9 +58,25 @@ Buffs are timed boosts and ailments are timed harms. Each shows under your meter
 
     **Effect:** you lose 1 health a second until it wears off.
 
+-   :material-white-balance-sunny:{ .lg .middle } **Overheated**
+
+    ---
+
+    **How:** your [cool](heat.md) falls to a quarter or less in the midday sun.
+
+    **Effect:** stamina refills at half speed and thirst drains 40% faster, until you cool down.
+
+-   :material-thermometer-alert:{ .lg .middle } **Heatstroke**
+
+    ---
+
+    **How:** your cool runs out.
+
+    **Effect:** you lose 1 health every 5 seconds until you get into shade.
+
 </div>
 
 Serum comes from the [Bio Lab](../building/production.md) and Elixir from the Alchemy Table. Both are also [food](food.md). ++f++ saves them until nothing plainer will do.
 
 !!! note
-    Shielded only reduces damage from hits. Starvation, thirst and poison are not reduced. Healing plays its own animation but is not a buff.
+    Shielded only reduces damage from hits. Starvation, thirst, heatstroke and poison are not reduced. Healing plays its own animation but is not a buff.

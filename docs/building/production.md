@@ -18,7 +18,8 @@ Emptying
 | Advanced Quarry | 4 s | 3 | — | Local ore (60%), coal (15%) or stone. 10% chance of a deep seam. |
 | Kiln | 5 s | 2 | 1 Copper, Gold or Cobalt Ore | 1 matching bar |
 | Fuel Refinery | 6 s | 2 | 2 Coal | 1 Fuel |
-| Greenhouse | 12 s | 1 | — | 2 Berries (40%), 1 Vegetables (30%) or 2 Wood (30%) |
+| Greenhouse | 15 s | 1 | 1 Water | 2 Berries (40%), 1 Vegetables (30%) or 2 Wood (30%) |
+| Condenser | 18 s (9 s at night) | 1 | — | 1 Water (holds 6) |
 | Bio Lab | 8 s | 2 | 1 Vegetables + 1 Bone | 1 Serum |
 
 !!! info "Quarries dig what's under them"
@@ -28,6 +29,7 @@ Emptying
 
 | Structure | What it does |
 | --- | --- |
-| Planter | Grows a random crop through three stages, about 45 s each. Harvest when ripe for 2 Vegetables. |
+| Planter | Grows a random crop through three stages, about 45 s each, once watered (1 Water per crop). Harvest when ripe for 2 Vegetables. |
+| Well | Fills with 1 Water every 60 s (35 s in an oasis), up to 4. No power needed. |
 | Campfire | Cooks up to 5 Raw Meat into Cooked Meat at a time. Also lights the area and makes you [Rested](../survival/buffs.md). |
 | Forge, Advanced Forge | Upgrade your sword. See [Sword upgrades](defense.md#sword-upgrades). |

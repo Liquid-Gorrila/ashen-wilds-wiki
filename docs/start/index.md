@@ -23,7 +23,7 @@ Every new game generates a fresh world from a random seed. You wake at a small c
 
 -   :material-format-list-checks:{ .lg .middle } **[Objectives](objectives.md)**
 
-    All 30 tutorial goals the game walks you through.
+    All 41 tutorial goals the game walks you through.
 
 -   :material-lightbulb-on:{ .lg .middle } **[Tips and strategy](tips.md)**
 
